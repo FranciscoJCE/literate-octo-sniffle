@@ -616,6 +616,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-06-11 22:19:13 +0000",
       "minecraft:stray": "2025-06-11 06:37:29 +0000",
       "minecraft:spider": "2025-06-11 05:53:00 +0000",
       "minecraft:zombie": "2025-06-11 05:46:26 +0000",
@@ -1128,27 +1129,9 @@
     },
     "done": true
   },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_chestplate": "2025-06-11 22:02:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_leggings": {
-    "criteria": {
-      "has_diamond": "2025-06-11 22:02:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-06-11 21:49:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/golden_axe": {
-    "criteria": {
-      "has_gold_ingot": "2025-06-11 22:02:25 +0000"
     },
     "done": true
   },
@@ -1164,69 +1147,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/golden_pickaxe": {
-    "criteria": {
-      "has_gold_ingot": "2025-06-11 22:02:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_sword": {
-    "criteria": {
-      "has_diamond": "2025-06-11 22:02:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/jukebox": {
-    "criteria": {
-      "has_diamond": "2025-06-11 22:02:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget": {
-    "criteria": {
-      "has_gold_ingot": "2025-06-11 22:02:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/golden_shovel": {
-    "criteria": {
-      "has_gold_ingot": "2025-06-11 22:02:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-06-11 21:49:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_chestplate": {
-    "criteria": {
-      "has_diamond": "2025-06-11 22:02:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/golden_apple": {
-    "criteria": {
-      "has_gold_ingot": "2025-06-11 22:02:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_helmet": {
-    "criteria": {
-      "has_diamond": "2025-06-11 22:02:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_boots": {
-    "criteria": {
-      "has_gold_ingot": "2025-06-11 22:02:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_helmet": {
-    "criteria": {
-      "has_gold_ingot": "2025-06-11 22:02:25 +0000"
     },
     "done": true
   },
@@ -1242,27 +1165,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/golden_sword": {
-    "criteria": {
-      "has_gold_ingot": "2025-06-11 22:02:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gold_block": {
-    "criteria": {
-      "has_gold_ingot": "2025-06-11 22:02:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-06-11 21:49:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_pickaxe": {
-    "criteria": {
-      "has_diamond": "2025-06-11 22:02:21 +0000"
     },
     "done": true
   },
@@ -1272,21 +1177,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/golden_chestplate": {
+  "minecraft:recipes/redstone/oak_button": {
     "criteria": {
-      "has_gold_ingot": "2025-06-11 22:02:25 +0000"
+      "has_planks": "2025-06-11 21:49:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-06-11 22:02:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-06-11 22:02:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-06-11 22:02:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-06-11 22:02:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-06-11 22:02:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-06-11 22:02:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-06-11 22:02:21 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-06-11 22:02:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/golden_hoe": {
-    "criteria": {
-      "has_gold_ingot": "2025-06-11 22:02:25 +0000"
     },
     "done": true
   },
@@ -1314,15 +1255,81 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-06-11 22:02:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-06-11 22:02:25 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/oak_button": {
+  "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
-      "has_planks": "2025-06-11 21:49:35 +0000"
+      "has_gold_ingot": "2025-06-11 22:02:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-11 22:02:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-11 22:02:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-11 22:02:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-11 22:02:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-11 22:02:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-11 22:02:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-11 22:02:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-11 22:02:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-11 22:02:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-11 22:02:25 +0000"
     },
     "done": true
   },
@@ -1332,9 +1339,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/diamond_boots": {
+  "minecraft:recipes/misc/wheat": {
     "criteria": {
-      "has_diamond": "2025-06-11 22:02:21 +0000"
+      "has_hay_block": "2025-06-11 22:05:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-06-11 22:05:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-11 22:07:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-11 22:07:09 +0000"
     },
     "done": true
   },
