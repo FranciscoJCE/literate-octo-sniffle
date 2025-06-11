@@ -56,3 +56,5 @@
 [11Jun2025 22:44:59.545] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/13297, l='ServerLevel[world]', x=698.78, y=64.17, z=1236.72] died, message: 'Leatherworker was burned to a crisp while fighting Zombie'
 [11Jun2025 22:46:32.827] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oak Boat (vehicle of xsep123) moved wrongly! 0.33599639189924346
 [11Jun2025 22:46:32.881] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oak Boat (vehicle of xsep123) moved wrongly! 0.30493064921552104
+[11Jun2025 22:56:22.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xsep123 has made the advancement [Ice Bucket Challenge]
+[11Jun2025 23:00:40.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xsep123 has made the advancement [Hot Stuff]
