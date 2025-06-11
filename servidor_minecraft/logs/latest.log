@@ -63,3 +63,5 @@
 [11Jun2025 23:16:01.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xsep123 tried to swim in lava
 [11Jun2025 23:18:59.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xsep123 burned to death
 [11Jun2025 23:24:16.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xsep123 tried to swim in lava
+[11Jun2025 23:27:22.500] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xsep123 lost connection: Disconnected
+[11Jun2025 23:27:22.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xsep123 left the game
