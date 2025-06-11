@@ -53,3 +53,8 @@
 [11Jun2025 03:46:09.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gorextreme2 joined the game
 [11Jun2025 03:46:54.195] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gorextreme2 lost connection: Disconnected
 [11Jun2025 03:46:54.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gorextreme2 left the game
+[11Jun2025 03:56:40.828] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gorextreme2[/172.25.48.53:52850] logged in with entity id 289 at (9.063737784197649, 89.0, 0.6334369537897664)
+[11Jun2025 03:56:40.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gorextreme2 joined the game
+[11Jun2025 03:57:56.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gorextreme2 has made the advancement [Monster Hunter]
+[11Jun2025 03:58:17.246] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gorextreme2 lost connection: Disconnected
+[11Jun2025 03:58:17.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gorextreme2 left the game

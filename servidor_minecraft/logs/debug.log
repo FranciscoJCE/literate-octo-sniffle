@@ -708,3 +708,40 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [11Jun2025 03:46:54.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gorextreme2 left the game
 [11Jun2025 03:50:11.183] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [11Jun2025 03:50:11.191] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jun2025 03:55:11.172] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jun2025 03:55:11.179] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jun2025 03:56:39.724] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received client connection with modlist [forge, minecraft, xaerominimap, xaeroworldmap]
+[11Jun2025 03:56:39.740] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received client connection with channels [forge:handshake, forge:login, forge:tier_sorting, minecraft:register, minecraft:unregister, xaerominimap:main, xaeroworldmap:main]
+[11Jun2025 03:56:39.741] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of 'PRESENT 1' from client : ACCEPTED
+[11Jun2025 03:56:39.741] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Version test of 'PRESENT 0' from client : ACCEPTED
+[11Jun2025 03:56:39.741] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Version test of 'PRESENT 0' from client : ACCEPTED
+[11Jun2025 03:56:39.741] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'PRESENT 0' from client : ACCEPTED
+[11Jun2025 03:56:39.741] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'PRESENT 0' from client : ACCEPTED
+[11Jun2025 03:56:39.741] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[11Jun2025 03:56:39.761] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 0 from client
+[11Jun2025 03:56:39.777] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 1 from client
+[11Jun2025 03:56:39.792] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 2 from client
+[11Jun2025 03:56:39.815] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 3 from client
+[11Jun2025 03:56:39.831] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 4 from client
+[11Jun2025 03:56:39.846] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 5 from client
+[11Jun2025 03:56:39.866] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 6 from client
+[11Jun2025 03:56:39.882] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 7 from client
+[11Jun2025 03:56:39.898] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 8 from client
+[11Jun2025 03:56:39.914] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 9 from client
+[11Jun2025 03:56:39.929] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 10 from client
+[11Jun2025 03:56:39.945] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 11 from client
+[11Jun2025 03:56:39.964] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 12 from client
+[11Jun2025 03:56:39.979] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 13 from client
+[11Jun2025 03:56:39.995] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 14 from client
+[11Jun2025 03:56:40.010] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 15 from client
+[11Jun2025 03:56:40.026] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 16 from client
+[11Jun2025 03:56:40.041] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 17 from client
+[11Jun2025 03:56:40.057] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 18 from client
+[11Jun2025 03:56:40.733] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 19 from client
+[11Jun2025 03:56:40.828] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gorextreme2[/172.25.48.53:52850] logged in with entity id 289 at (9.063737784197649, 89.0, 0.6334369537897664)
+[11Jun2025 03:56:40.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gorextreme2 joined the game
+[11Jun2025 03:57:56.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gorextreme2 has made the advancement [Monster Hunter]
+[11Jun2025 03:58:17.246] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gorextreme2 lost connection: Disconnected
+[11Jun2025 03:58:17.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gorextreme2 left the game
+[11Jun2025 04:00:11.170] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jun2025 04:00:11.176] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
