@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-06-11 06:10:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2025-06-11 05:58:23 +0000"
@@ -110,6 +116,12 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-06-11 05:53:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-11 06:13:12 +0000"
     },
     "done": true
   },
@@ -173,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-06-11 06:13:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-06-11 05:55:04 +0000"
@@ -209,6 +227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-06-11 06:13:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-06-11 05:58:23 +0000"
@@ -224,6 +248,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-06-11 05:53:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-11 06:13:12 +0000"
     },
     "done": true
   },
@@ -308,6 +338,12 @@
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_black_wool": "2025-06-11 05:58:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-06-11 06:13:12 +0000"
     },
     "done": true
   },
@@ -539,6 +575,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-11 06:13:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-06-11 06:13:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2025-06-11 05:55:04 +0000"
@@ -547,16 +595,19 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:deep_cold_ocean": "2025-06-11 06:02:39 +0000",
       "minecraft:cold_ocean": "2025-06-11 06:02:18 +0000",
-      "minecraft:frozen_ocean": "2025-06-11 06:04:50 +0000",
       "minecraft:beach": "2025-06-11 06:02:17 +0000",
       "minecraft:forest": "2025-06-11 06:01:43 +0000",
+      "minecraft:river": "2025-06-11 06:02:12 +0000",
+      "minecraft:snowy_plains": "2025-06-11 06:08:28 +0000",
+      "minecraft:deep_cold_ocean": "2025-06-11 06:02:39 +0000",
+      "minecraft:frozen_ocean": "2025-06-11 06:04:50 +0000",
+      "minecraft:frozen_river": "2025-06-11 06:08:16 +0000",
       "minecraft:deep_frozen_ocean": "2025-06-11 06:03:43 +0000",
       "minecraft:sunflower_plains": "2025-06-11 05:52:48 +0000",
-      "minecraft:river": "2025-06-11 06:02:12 +0000",
       "minecraft:swamp": "2025-06-11 05:53:56 +0000",
       "minecraft:windswept_hills": "2025-06-11 05:52:12 +0000",
+      "minecraft:snowy_beach": "2025-06-11 06:08:18 +0000",
       "minecraft:windswept_savanna": "2025-06-11 06:01:39 +0000",
       "minecraft:plains": "2025-06-11 05:51:16 +0000"
     },
@@ -604,6 +655,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-11 06:13:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-06-11 05:53:57 +0000"
@@ -622,6 +679,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-06-11 06:10:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-06-11 05:58:32 +0000"
@@ -631,6 +694,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-06-11 05:55:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-11 06:13:12 +0000"
     },
     "done": true
   },
@@ -712,6 +781,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-11 06:13:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-06-11 05:58:24 +0000"
@@ -721,6 +796,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-06-11 05:55:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-06-11 06:13:12 +0000"
     },
     "done": true
   },
@@ -781,6 +862,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-06-11 05:53:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-06-11 06:10:52 +0000"
     },
     "done": true
   },
