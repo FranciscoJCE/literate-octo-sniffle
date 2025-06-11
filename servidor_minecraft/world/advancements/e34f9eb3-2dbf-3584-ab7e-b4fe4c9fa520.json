@@ -10,6 +10,7 @@
       "minecraft:cold_ocean": "2025-06-11 05:36:46 +0000",
       "minecraft:beach": "2025-06-11 04:38:50 +0000",
       "minecraft:forest": "2025-06-11 05:35:33 +0000",
+      "minecraft:deep_ocean": "2025-06-11 22:49:19 +0000",
       "minecraft:river": "2025-06-11 04:39:23 +0000",
       "minecraft:snowy_plains": "2025-06-11 05:43:54 +0000",
       "minecraft:snowy_taiga": "2025-06-11 05:42:53 +0000",
@@ -1364,9 +1365,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-06-11 22:40:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-06-11 22:40:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
       "has_light_gray_wool": "2025-06-11 22:21:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-06-11 22:40:52 +0000"
     },
     "done": true
   },

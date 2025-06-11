@@ -716,3 +716,10 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [11Jun2025 22:39:50.047] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [11Jun2025 22:41:51.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xsep123 was impaled by Drowned
 [11Jun2025 22:44:29.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xsep123 was impaled by Drowned
+[11Jun2025 22:44:50.054] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jun2025 22:44:50.060] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jun2025 22:44:59.545] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/13297, l='ServerLevel[world]', x=698.78, y=64.17, z=1236.72] died, message: 'Leatherworker was burned to a crisp while fighting Zombie'
+[11Jun2025 22:46:32.827] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oak Boat (vehicle of xsep123) moved wrongly! 0.33599639189924346
+[11Jun2025 22:46:32.881] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oak Boat (vehicle of xsep123) moved wrongly! 0.30493064921552104
+[11Jun2025 22:49:50.040] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jun2025 22:49:50.046] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
