@@ -116,3 +116,5 @@
 [11Jun2025 04:31:30.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gorextreme2 left the game
 [11Jun2025 04:31:31.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xsep123 has made the advancement [Sweet Dreams]
 [11Jun2025 04:34:47.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xsep123 has made the advancement [Monster Hunter]
+[11Jun2025 04:44:59.595] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xsep123 lost connection: Disconnected
+[11Jun2025 04:44:59.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xsep123 left the game
