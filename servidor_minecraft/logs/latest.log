@@ -50,3 +50,6 @@
 [11Jun2025 22:15:46.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xsep123 joined the game
 [11Jun2025 22:15:48.383] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Pig['Pig'/105, l='ServerLevel[world]', x=-365.42, y=63.00, z=2427.73]
 [11Jun2025 22:15:48.564] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Villager['Farmer'/119, l='ServerLevel[world]', x=-361.45, y=64.00, z=2413.87]
+[11Jun2025 22:38:33.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xsep123 was impaled by Drowned
+[11Jun2025 22:41:51.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xsep123 was impaled by Drowned
+[11Jun2025 22:44:29.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xsep123 was impaled by Drowned
