@@ -813,3 +813,66 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [11Jun2025 04:13:19.769] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 19 from client
 [11Jun2025 04:13:19.819] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gorextreme2[/172.25.48.53:53845] logged in with entity id 859 at (4.579151027988545, 81.0, 63.605046308757366)
 [11Jun2025 04:13:19.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gorextreme2 joined the game
+[11Jun2025 04:15:11.193] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jun2025 04:15:11.204] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jun2025 04:17:18.141] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received client connection with modlist [forge, minecraft, tlskincape, xaerominimap, xaeroworldmap]
+[11Jun2025 04:17:18.164] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received client connection with channels [forge:handshake, forge:login, forge:tier_sorting, minecraft:register, minecraft:unregister, xaerominimap:main, xaeroworldmap:main]
+[11Jun2025 04:17:18.164] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of 'PRESENT 1' from client : ACCEPTED
+[11Jun2025 04:17:18.164] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Version test of 'PRESENT 0' from client : ACCEPTED
+[11Jun2025 04:17:18.164] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Version test of 'PRESENT 0' from client : ACCEPTED
+[11Jun2025 04:17:18.164] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'PRESENT 0' from client : ACCEPTED
+[11Jun2025 04:17:18.164] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'PRESENT 0' from client : ACCEPTED
+[11Jun2025 04:17:18.164] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[11Jun2025 04:17:18.184] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 0 from client
+[11Jun2025 04:17:18.208] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 1 from client
+[11Jun2025 04:17:18.227] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 2 from client
+[11Jun2025 04:17:18.253] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 3 from client
+[11Jun2025 04:17:18.273] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 4 from client
+[11Jun2025 04:17:18.289] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 5 from client
+[11Jun2025 04:17:18.310] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 6 from client
+[11Jun2025 04:17:18.326] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 7 from client
+[11Jun2025 04:17:18.343] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 8 from client
+[11Jun2025 04:17:18.362] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 9 from client
+[11Jun2025 04:17:18.379] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 10 from client
+[11Jun2025 04:17:18.399] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 11 from client
+[11Jun2025 04:17:18.420] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 12 from client
+[11Jun2025 04:17:18.438] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 13 from client
+[11Jun2025 04:17:18.454] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 14 from client
+[11Jun2025 04:17:18.470] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 15 from client
+[11Jun2025 04:17:18.489] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 16 from client
+[11Jun2025 04:17:18.505] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 17 from client
+[11Jun2025 04:17:18.521] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 18 from client
+[11Jun2025 04:17:18.840] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 19 from client
+[11Jun2025 04:17:18.949] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xsep123[/172.25.43.2:50529] logged in with entity id 1768 at (-6.5, 69.0, -5.5)
+[11Jun2025 04:17:18.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xsep123 joined the game
+[11Jun2025 04:17:30.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> Hola
+[11Jun2025 04:17:36.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gorextreme2> LETS GOO
+[11Jun2025 04:17:50.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gorextreme2> pegame
+[11Jun2025 04:17:54.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> Porque estas muertote?
+[11Jun2025 04:18:04.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gorextreme2 was slain by xsep123
+[11Jun2025 04:18:06.571] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gorextreme2 moved too quickly! -8.502039433084587,-12.0,-9.199999988079071
+[11Jun2025 04:18:06.587] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gorextreme2 moved too quickly! -8.502039433084587,-12.0,-9.199999988079071
+[11Jun2025 04:18:23.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gorextreme2> mate un esqueleto y 5 zombies
+[11Jun2025 04:18:28.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gorextreme2> xdd
+[11Jun2025 04:18:31.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> XD
+[11Jun2025 04:18:43.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> A pu;o limpio
+[11Jun2025 04:18:46.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gorextreme2> chi
+[11Jun2025 04:18:50.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gorextreme2> gracias papu
+[11Jun2025 04:18:52.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> No tengo ñ
+[11Jun2025 04:19:01.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gorextreme2> queria ver si jalaba
+[11Jun2025 04:19:36.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> Nos vas a pasar la cuenta de zerotier?
+[11Jun2025 04:19:48.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gorextreme2> es que se prende por githu
+[11Jun2025 04:20:03.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gorextreme2> ando con el chatgpt viendo como hacerle
+[11Jun2025 04:20:08.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> XD
+[11Jun2025 04:20:11.192] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jun2025 04:20:11.199] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jun2025 04:20:45.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gorextreme2> dejame los retoños de este arbol
+[11Jun2025 04:21:10.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xsep123 has made the advancement [Stone Age]
+[11Jun2025 04:21:45.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gorextreme2 has made the advancement [Stone Age]
+[11Jun2025 04:22:01.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> apenas te iba a dar pico
+[11Jun2025 04:22:09.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gorextreme2> xdd
+[11Jun2025 04:22:13.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xsep123 has made the advancement [Getting an Upgrade]
+[11Jun2025 04:24:21.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> Ya viste
+[11Jun2025 04:24:26.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> esmeralda
+[11Jun2025 04:24:29.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[11Jun2025 04:24:29.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xd<--[HERE]
