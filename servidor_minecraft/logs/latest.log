@@ -152,3 +152,5 @@
 [11Jun2025 07:40:56.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /forge (tps|track|entity|generate|dimensions|mods|tags)
 [11Jun2025 07:40:56.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /config showfile <mod> <type>
 [11Jun2025 07:41:54.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to xsep123: Dios observa
+[11Jun2025 07:57:17.251] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xsep123 lost connection: Disconnected
+[11Jun2025 07:57:17.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xsep123 left the game
