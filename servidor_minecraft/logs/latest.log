@@ -58,3 +58,11 @@
 [11Jun2025 03:57:56.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gorextreme2 has made the advancement [Monster Hunter]
 [11Jun2025 03:58:17.246] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gorextreme2 lost connection: Disconnected
 [11Jun2025 03:58:17.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gorextreme2 left the game
+[11Jun2025 04:10:46.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Created new objective [Vida]
+[11Jun2025 04:10:58.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set display slot list to show objective Vida
+[11Jun2025 04:11:09.098] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gorextreme2[/172.25.48.53:53716] logged in with entity id 689 at (24.940378104692137, 85.0, 67.06546196521262)
+[11Jun2025 04:11:09.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gorextreme2 joined the game
+[11Jun2025 04:12:05.494] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gorextreme2 lost connection: Disconnected
+[11Jun2025 04:12:05.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gorextreme2 left the game
+[11Jun2025 04:13:19.819] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gorextreme2[/172.25.48.53:53845] logged in with entity id 859 at (4.579151027988545, 81.0, 63.605046308757366)
+[11Jun2025 04:13:19.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gorextreme2 joined the game
