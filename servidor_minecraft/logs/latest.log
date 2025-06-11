@@ -1,196 +1,55 @@
-[10Jun2025 05:15:15.983] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
-[10Jun2025 05:15:15.986] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu120.04
-[10Jun2025 05:15:15.987] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.1.2 starting: java version 21.0.7 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[10Jun2025 05:15:16.052] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Configuration file /workspaces/literate-octo-sniffle/servidor_minecraft/config/fml.toml is not correct. Correcting
-[10Jun2025 05:15:16.054] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSkipGLVersions] was corrected from null to []
-[10Jun2025 05:15:16.054] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowLogHelpMessage] was corrected from null to true
-[10Jun2025 05:15:16.055] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSquir] was corrected from null to false
-[10Jun2025 05:15:16.055] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [detectNonForgeModsToml] was corrected from null to true
-[10Jun2025 05:15:16.056] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowShowCPU] was corrected from null to false
-[10Jun2025 05:15:16.065] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
-[10Jun2025 05:15:16.176] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=jar:file:///workspaces/literate-octo-sniffle/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar!/ Service=ModLauncher Env=SERVER
-[10Jun2025 05:15:16.366] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[10Jun2025 05:15:17.231] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
-[10Jun2025 05:15:17.537] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:///workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:///workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:///workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties]
-[10Jun2025 05:15:17.661] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:///workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:///workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:///workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties]
-[10Jun2025 05:15:22.669] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 49.1.4, for MC 1.20.4 with MCP 20231207.112700
-[10Jun2025 05:15:22.672] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v49.1.4 Initialized
-[10Jun2025 05:15:22.706] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
-[10Jun2025 05:15:23.418] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[10Jun2025 05:15:24.116] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 49.1.4 Target: 49.2.0
-[10Jun2025 05:15:24.423] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[10Jun2025 05:15:25.129] [main/INFO] [net.minecraft.server.Main/]: No existing world data, creating new world
-[10Jun2025 05:15:25.873] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
-[10Jun2025 05:15:26.125] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1271 advancements
-[10Jun2025 05:15:26.628] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.4
-[10Jun2025 05:15:26.628] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[10Jun2025 05:15:26.629] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[10Jun2025 05:15:26.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[10Jun2025 05:15:26.706] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[10Jun2025 05:15:26.742] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[10Jun2025 05:15:26.783] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[10Jun2025 05:15:26.783] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[10Jun2025 05:15:26.783] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[10Jun2025 05:15:26.784] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[10Jun2025 05:15:26.805] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/forge-server.toml is not correct. Correcting
-[10Jun2025 05:15:26.806] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to its default, SimpleCommentedConfig:{}. 
-[10Jun2025 05:15:26.806] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringBlockEntities was corrected from null to its default, false. 
-[10Jun2025 05:15:26.807] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringEntities was corrected from null to its default, false. 
-[10Jun2025 05:15:26.807] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fullBoundingBoxLadders was corrected from null to its default, false. 
-[10Jun2025 05:15:26.807] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBaseSummonChance was corrected from null to its default, 0.1. 
-[10Jun2025 05:15:26.808] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBabyChance was corrected from null to its default, 0.05. 
-[10Jun2025 05:15:26.808] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.permissionHandler was corrected from null to its default, forge:default_handler. 
-[10Jun2025 05:15:26.808] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advertiseDedicatedServerToLan was corrected from null to its default, true. 
-[10Jun2025 05:15:26.844] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[10Jun2025 05:15:34.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[10Jun2025 05:15:35.075] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Jun2025 05:15:35.076] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Jun2025 05:15:35.262] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Jun2025 05:15:35.761] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Jun2025 05:15:36.277] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Jun2025 05:15:36.765] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
-[10Jun2025 05:15:37.277] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
-[10Jun2025 05:15:37.759] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[10Jun2025 05:15:38.278] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 3%
-[10Jun2025 05:15:38.764] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
-[10Jun2025 05:15:39.289] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
-[10Jun2025 05:15:39.758] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
-[10Jun2025 05:15:40.286] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 9%
-[10Jun2025 05:15:40.769] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 10%
-[10Jun2025 05:15:41.265] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 11%
-[10Jun2025 05:15:41.780] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 12%
-[10Jun2025 05:15:42.284] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 14%
-[10Jun2025 05:15:42.765] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 16%
-[10Jun2025 05:15:43.260] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 17%
-[10Jun2025 05:15:43.758] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 19%
-[10Jun2025 05:15:44.258] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 21%
-[10Jun2025 05:15:44.762] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 22%
-[10Jun2025 05:15:45.258] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 24%
-[10Jun2025 05:15:45.801] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 25%
-[10Jun2025 05:15:46.263] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 26%
-[10Jun2025 05:15:46.759] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 29%
-[10Jun2025 05:15:47.268] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 31%
-[10Jun2025 05:15:47.763] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 32%
-[10Jun2025 05:15:48.265] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 34%
-[10Jun2025 05:15:48.758] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 35%
-[10Jun2025 05:15:49.261] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 37%
-[10Jun2025 05:15:49.785] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 39%
-[10Jun2025 05:15:50.330] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 41%
-[10Jun2025 05:15:50.764] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 42%
-[10Jun2025 05:15:51.277] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 44%
-[10Jun2025 05:15:51.784] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 46%
-[10Jun2025 05:15:52.268] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 48%
-[10Jun2025 05:15:52.795] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 50%
-[10Jun2025 05:15:53.263] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 53%
-[10Jun2025 05:15:53.760] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 55%
-[10Jun2025 05:15:54.270] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 57%
-[10Jun2025 05:15:54.760] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 60%
-[10Jun2025 05:15:55.265] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 62%
-[10Jun2025 05:15:55.758] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 65%
-[10Jun2025 05:15:56.264] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 68%
-[10Jun2025 05:15:56.760] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 70%
-[10Jun2025 05:15:57.261] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 72%
-[10Jun2025 05:15:57.758] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 74%
-[10Jun2025 05:15:58.288] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 78%
-[10Jun2025 05:15:58.765] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 80%
-[10Jun2025 05:15:59.305] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
-[10Jun2025 05:15:59.763] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 84%
-[10Jun2025 05:16:00.307] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 87%
-[10Jun2025 05:16:00.761] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 89%
-[10Jun2025 05:16:01.303] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 92%
-[10Jun2025 05:16:01.774] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 94%
-[10Jun2025 05:16:02.259] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 98%
-[10Jun2025 05:16:02.539] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 28282 ms
-[10Jun2025 05:16:02.540] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (35.742s)! For help, type "help"
-[10Jun2025 05:16:02.552] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[10Jun2025 05:32:44.744] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gorextreme2[/172.25.48.53:62206] logged in with entity id 237 at (5.5, 86.0, 2.5)
-[10Jun2025 05:32:44.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gorextreme2 joined the game
-[10Jun2025 05:32:59.407] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gorextreme2 lost connection: Disconnected
-[10Jun2025 05:32:59.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gorextreme2 left the game
-[10Jun2025 05:35:12.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[10Jun2025 05:35:12.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: turnoff<--[HERE]
-[10Jun2025 05:35:18.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[10Jun2025 05:35:18.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: off<--[HERE]
-[10Jun2025 05:35:24.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /advancement (grant|revoke)
-[10Jun2025 05:35:24.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /attribute <target> <attribute> (get|base|modifier)
-[10Jun2025 05:35:24.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in|summon|on)
-[10Jun2025 05:35:24.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /bossbar (add|remove|list|set|get)
-[10Jun2025 05:35:24.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /clear [<targets>]
-[10Jun2025 05:35:24.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /clone (<begin>|from)
-[10Jun2025 05:35:24.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /damage <target> <amount> [<damageType>]
-[10Jun2025 05:35:24.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /data (merge|get|remove|modify)
-[10Jun2025 05:35:24.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /datapack (enable|disable|list)
-[10Jun2025 05:35:24.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /debug (start|stop|function)
-[10Jun2025 05:35:24.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /defaultgamemode <gamemode>
-[10Jun2025 05:35:24.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /difficulty [peaceful|easy|normal|hard]
-[10Jun2025 05:35:24.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /effect (clear|give)
-[10Jun2025 05:35:24.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /me <action>
-[10Jun2025 05:35:24.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /enchant <targets> <enchantment> [<level>]
-[10Jun2025 05:35:24.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /experience (add|set|query)
-[10Jun2025 05:35:24.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /xp -> experience
-[10Jun2025 05:35:24.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
-[10Jun2025 05:35:24.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /fillbiome <from> <to> <biome> [replace]
-[10Jun2025 05:35:24.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /forceload (add|remove|query)
-[10Jun2025 05:35:24.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /function <name> [<arguments>|with]
-[10Jun2025 05:35:24.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /gamemode <gamemode> [<target>]
-[10Jun2025 05:35:24.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /gamerule (announceAdvancements|blockExplosionDropDecay|commandBlockOutput|commandModificationBlockLimit|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doVinesSpread|doWardenSpawning|doWeatherCycle|drowningDamage|enderPearlsVanishOnDeath|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|globalSoundEvents|keepInventory|lavaSourceConversion|logAdminCommands|maxCommandChainLength|maxCommandForkCount|maxEntityCramming|mobExplosionDropDecay|mobGriefing|naturalRegeneration|playersNetherPortalCreativeDelay|playersNetherPortalDefaultDelay|playersSleepingPercentage|projectilesCanBreakBlocks|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|snowAccumulationHeight|spawnRadius|spectatorsGenerateChunks|tntExplosionDropDecay|universalAnger|waterSourceConversion)
-[10Jun2025 05:35:24.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /give <targets> <item> [<count>]
-[10Jun2025 05:35:24.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /help [<command>]
-[10Jun2025 05:35:24.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /item (replace|modify)
-[10Jun2025 05:35:24.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /kick <targets> [<reason>]
-[10Jun2025 05:35:24.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /kill [<targets>]
-[10Jun2025 05:35:24.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /list [uuids]
-[10Jun2025 05:35:24.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /locate (structure|biome|poi)
-[10Jun2025 05:35:24.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /loot (replace|insert|give|spawn)
-[10Jun2025 05:35:24.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /msg <targets> <message>
-[10Jun2025 05:35:24.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tell -> msg
-[10Jun2025 05:35:24.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /w -> msg
-[10Jun2025 05:35:24.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /particle <name> [<pos>]
-[10Jun2025 05:35:24.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /place (feature|jigsaw|structure|template)
-[10Jun2025 05:35:24.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /playsound <sound> (master|music|record|weather|block|hostile|neutral|player|ambient|voice)
-[10Jun2025 05:35:24.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /random (value|roll|reset)
-[10Jun2025 05:35:24.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /reload
-[10Jun2025 05:35:24.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /recipe (give|take)
-[10Jun2025 05:35:24.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /return (<value>|fail|run)
-[10Jun2025 05:35:24.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ride <target> (mount|dismount)
-[10Jun2025 05:35:24.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /say <message>
-[10Jun2025 05:35:24.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /schedule (function|clear)
-[10Jun2025 05:35:24.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /scoreboard (objectives|players)
-[10Jun2025 05:35:24.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /seed
-[10Jun2025 05:35:24.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setblock <pos> <block> [destroy|keep|replace]
-[10Jun2025 05:35:24.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spawnpoint [<targets>]
-[10Jun2025 05:35:24.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setworldspawn [<pos>]
-[10Jun2025 05:35:24.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spectate [<target>]
-[10Jun2025 05:35:24.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
-[10Jun2025 05:35:24.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
-[10Jun2025 05:35:24.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /summon <entity> [<pos>]
-[10Jun2025 05:35:24.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tag <targets> (add|remove|list)
-[10Jun2025 05:35:24.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /team (list|add|remove|empty|join|leave|modify)
-[10Jun2025 05:35:24.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /teammsg <message>
-[10Jun2025 05:35:24.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tm -> teammsg
-[10Jun2025 05:35:24.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /teleport (<location>|<destination>|<targets>)
-[10Jun2025 05:35:24.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tp -> teleport
-[10Jun2025 05:35:24.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tellraw <targets> <message>
-[10Jun2025 05:35:24.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tick (query|rate|step|sprint|unfreeze|freeze)
-[10Jun2025 05:35:24.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /time (set|add|query)
-[10Jun2025 05:35:24.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
-[10Jun2025 05:35:24.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /trigger <objective> [add|set]
-[10Jun2025 05:35:24.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /weather (clear|rain|thunder)
-[10Jun2025 05:35:24.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /worldborder (add|set|center|damage|get|warning)
-[10Jun2025 05:35:24.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /jfr (start|stop)
-[10Jun2025 05:35:24.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ban-ip <target> [<reason>]
-[10Jun2025 05:35:24.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /banlist [ips|players]
-[10Jun2025 05:35:24.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ban <targets> [<reason>]
-[10Jun2025 05:35:24.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /deop <targets>
-[10Jun2025 05:35:24.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /op <targets>
-[10Jun2025 05:35:24.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /pardon <targets>
-[10Jun2025 05:35:24.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /pardon-ip <target>
-[10Jun2025 05:35:24.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /perf (start|stop)
-[10Jun2025 05:35:24.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-all [flush]
-[10Jun2025 05:35:24.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-off
-[10Jun2025 05:35:24.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-on
-[10Jun2025 05:35:24.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setidletimeout <minutes>
-[10Jun2025 05:35:24.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /stop
-[10Jun2025 05:35:24.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /whitelist (on|off|list|add|remove|reload)
-[10Jun2025 05:35:24.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /forge (tps|track|entity|generate|dimensions|mods|tags)
-[10Jun2025 05:35:24.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /config showfile <mod> <type>
+[11Jun2025 03:44:45.355] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
+[11Jun2025 03:44:45.359] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu120.04
+[11Jun2025 03:44:45.360] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.1.2 starting: java version 21.0.7 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[11Jun2025 03:44:45.444] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
+[11Jun2025 03:44:45.560] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=jar:file:///workspaces/literate-octo-sniffle/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar!/ Service=ModLauncher Env=SERVER
+[11Jun2025 03:44:45.792] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[11Jun2025 03:44:46.514] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
+[11Jun2025 03:44:46.817] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:///workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:///workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:///workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties]
+[11Jun2025 03:44:46.915] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:///workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:///workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:///workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties]
+[11Jun2025 03:44:52.420] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 49.1.4, for MC 1.20.4 with MCP 20231207.112700
+[11Jun2025 03:44:52.424] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v49.1.4 Initialized
+[11Jun2025 03:44:52.465] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[11Jun2025 03:44:53.122] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[11Jun2025 03:44:53.686] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 49.1.4 Target: 49.2.0
+[11Jun2025 03:44:54.502] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[11Jun2025 03:44:56.533] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[11Jun2025 03:44:56.750] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1271 advancements
+[11Jun2025 03:44:57.354] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.4
+[11Jun2025 03:44:57.354] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[11Jun2025 03:44:57.355] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[11Jun2025 03:44:57.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[11Jun2025 03:44:57.469] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[11Jun2025 03:44:57.527] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[11Jun2025 03:44:57.573] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11Jun2025 03:44:57.573] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[11Jun2025 03:44:57.573] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[11Jun2025 03:44:57.573] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[11Jun2025 03:44:57.628] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[11Jun2025 03:45:01.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[11Jun2025 03:45:04.275] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jun2025 03:45:04.276] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jun2025 03:45:04.277] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jun2025 03:45:04.277] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jun2025 03:45:04.278] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jun2025 03:45:04.349] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jun2025 03:45:04.849] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 10%
+[11Jun2025 03:45:05.362] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 34%
+[11Jun2025 03:45:05.871] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 68%
+[11Jun2025 03:45:06.350] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 75%
+[11Jun2025 03:45:06.859] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[11Jun2025 03:45:07.374] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[11Jun2025 03:45:07.910] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 84%
+[11Jun2025 03:45:08.352] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 85%
+[11Jun2025 03:45:08.851] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 88%
+[11Jun2025 03:45:09.351] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 90%
+[11Jun2025 03:45:09.854] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 92%
+[11Jun2025 03:45:10.363] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 94%
+[11Jun2025 03:45:10.878] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 97%
+[11Jun2025 03:45:11.175] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 9327 ms
+[11Jun2025 03:45:11.175] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (13.592s)! For help, type "help"
+[11Jun2025 03:45:11.190] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[11Jun2025 03:46:09.793] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gorextreme2[/172.25.48.53:52234] logged in with entity id 181 at (8.883413927224405, 89.0, 2.771856784908791)
+[11Jun2025 03:46:09.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gorextreme2 joined the game
+[11Jun2025 03:46:54.195] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gorextreme2 lost connection: Disconnected
+[11Jun2025 03:46:54.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gorextreme2 left the game
