@@ -782,3 +782,11 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [11Jun2025 06:56:22.606] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [11Jun2025 06:56:22.611] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [11Jun2025 06:57:35.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gorextreme2 has made the advancement [The Parrots and the Bats]
+[11Jun2025 07:01:22.600] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jun2025 07:01:22.605] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jun2025 07:04:06.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xsep123 has made the advancement [Best Friends Forever]
+[11Jun2025 07:06:07.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xsep123 has made the advancement [The Parrots and the Bats]
+[11Jun2025 07:06:22.601] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jun2025 07:06:22.606] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jun2025 07:07:42.204] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenshi_145 lost connection: Disconnected
+[11Jun2025 07:07:42.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenshi_145 left the game
