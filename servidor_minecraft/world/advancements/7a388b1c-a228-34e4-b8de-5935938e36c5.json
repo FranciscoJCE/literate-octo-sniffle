@@ -15,7 +15,9 @@
       "minecraft:river": "2025-06-11 05:42:50 +0000",
       "minecraft:snowy_plains": "2025-06-11 05:58:25 +0000",
       "minecraft:snowy_taiga": "2025-06-11 05:57:53 +0000",
+      "minecraft:dripstone_caves": "2025-06-12 06:49:15 +0000",
       "minecraft:deep_cold_ocean": "2025-06-11 05:48:52 +0000",
+      "minecraft:ice_spikes": "2025-06-12 06:50:11 +0000",
       "minecraft:frozen_ocean": "2025-06-11 05:55:10 +0000",
       "minecraft:frozen_river": "2025-06-11 05:58:21 +0000",
       "minecraft:deep_frozen_ocean": "2025-06-11 05:54:06 +0000",
@@ -1912,6 +1914,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-06-12 07:01:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2025-06-12 05:19:24 +0000"
@@ -2134,6 +2142,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-06-12 07:01:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-06-12 05:44:48 +0000"
@@ -2155,6 +2169,12 @@
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-06-12 05:39:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-06-12 07:01:29 +0000"
     },
     "done": true
   },
