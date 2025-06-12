@@ -63,3 +63,5 @@
 [12Jun2025 08:27:19.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gorextreme2 has made the advancement [Enchanter]
 [12Jun2025 08:30:23.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xsep123 has made the advancement [Enchanter]
 [12Jun2025 08:32:19.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> ZZZ
+[12Jun2025 08:43:46.896] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xsep123 lost connection: Disconnected
+[12Jun2025 08:43:46.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xsep123 left the game
