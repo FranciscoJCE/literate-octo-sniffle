@@ -60,7 +60,8 @@
       "minecraft:zombie": "2025-06-11 04:14:32 +0000",
       "minecraft:creeper": "2025-06-12 01:34:21 +0000",
       "minecraft:drowned": "2025-06-11 05:45:58 +0000",
-      "minecraft:zombie_villager": "2025-06-12 01:54:36 +0000"
+      "minecraft:zombie_villager": "2025-06-12 01:54:36 +0000",
+      "minecraft:slime": "2025-06-12 02:07:08 +0000"
     },
     "done": false
   },
@@ -1234,6 +1235,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-12 02:05:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-12 01:37:43 +0000"
@@ -1267,6 +1274,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-12 00:57:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-12 02:05:09 +0000"
     },
     "done": true
   },
@@ -1357,6 +1370,12 @@
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-12 00:55:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-06-12 02:07:19 +0000"
     },
     "done": true
   },
@@ -1595,6 +1614,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-12 02:05:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-12 00:57:53 +0000"
@@ -1640,6 +1665,18 @@
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-12 01:37:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-06-12 02:07:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-12 02:05:09 +0000"
     },
     "done": true
   },
@@ -1814,6 +1851,12 @@
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-12 00:57:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-06-12 02:07:19 +0000"
     },
     "done": true
   },
