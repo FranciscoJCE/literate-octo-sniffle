@@ -1,63 +1,47 @@
-[12Jun2025 00:41:58.156] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gorextreme2[/172.25.48.53:50019] logged in with entity id 26670 at (-871.6999999880791, 67.5625, 2005.300000011921)
-[12Jun2025 00:41:58.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gorextreme2 joined the game
-[12Jun2025 00:47:04.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gorextreme2 has made the advancement [We Need to Go Deeper]
-[12Jun2025 00:48:15.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gorextreme2 has made the advancement [A Seedy Place]
-[12Jun2025 00:53:58.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gorextreme2 has made the advancement [What a Deal!]
-[12Jun2025 01:13:19.303] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xsep123[/172.25.43.2:50428] logged in with entity id 33667 at (-886.6854183202324, 67.0, 1986.5488327040553)
-[12Jun2025 01:13:19.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xsep123 joined the game
-[12Jun2025 01:24:58.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> zzz
-[12Jun2025 01:25:10.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> UwU
-[12Jun2025 01:25:32.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 7u7
-[12Jun2025 01:35:43.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gorextreme2 has made the advancement [Not Today, Thank You]
-[12Jun2025 01:42:44.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xsep123 has made the advancement [Not Today, Thank You]
-[12Jun2025 01:44:19.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gorextreme2 has made the advancement [Diamonds!]
-[12Jun2025 01:46:26.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gorextreme2 has made the advancement [Suit Up]
-[12Jun2025 01:50:19.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xsep123 has made the advancement [Take Aim]
-[12Jun2025 01:54:58.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xsep123 was slain by Zombie
-[12Jun2025 02:38:30.499] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/52152, l='ServerLevel[world]', x=-109.54, y=49.00, z=244.61] died, message: 'Villager suffocated in a wall'
-[12Jun2025 02:39:06.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 1
-[12Jun2025 02:39:09.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 2
-[12Jun2025 02:39:10.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 3
-[12Jun2025 02:39:13.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 4
-[12Jun2025 02:39:14.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 5
-[12Jun2025 02:39:15.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 6
-[12Jun2025 02:39:17.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 7
-[12Jun2025 02:39:17.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 8
-[12Jun2025 02:39:18.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 9
-[12Jun2025 02:39:33.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 10
-[12Jun2025 02:39:33.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 11
-[12Jun2025 02:39:34.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 12
-[12Jun2025 02:39:35.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 13
-[12Jun2025 02:39:38.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 14
-[12Jun2025 02:39:39.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 15
-[12Jun2025 02:39:40.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 16
-[12Jun2025 02:39:41.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 17
-[12Jun2025 02:39:41.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 18
-[12Jun2025 02:39:42.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 19
-[12Jun2025 02:39:44.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 20
-[12Jun2025 02:39:44.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 21
-[12Jun2025 02:39:46.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 22
-[12Jun2025 02:39:47.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 23
-[12Jun2025 02:39:48.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 24
-[12Jun2025 02:39:49.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 25
-[12Jun2025 02:39:50.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 26
-[12Jun2025 02:39:53.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 27
-[12Jun2025 02:39:54.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 28
-[12Jun2025 02:39:56.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 29
-[12Jun2025 02:39:57.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 30
-[12Jun2025 02:39:59.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 31
-[12Jun2025 02:40:00.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 32
-[12Jun2025 02:40:01.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 33
-[12Jun2025 02:40:01.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 3
-[12Jun2025 02:40:05.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 34
-[12Jun2025 02:40:06.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 35
-[12Jun2025 02:40:07.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 36
-[12Jun2025 02:40:09.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 37
-[12Jun2025 02:40:11.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 38
-[12Jun2025 02:40:12.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 39
-[12Jun2025 02:40:14.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 40
-[12Jun2025 02:50:18.151] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xsep123 lost connection: Disconnected
-[12Jun2025 02:50:18.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xsep123 left the game
-[12Jun2025 02:51:54.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gorextreme2> 1
-[12Jun2025 02:53:37.048] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gorextreme2 lost connection: Disconnected
-[12Jun2025 02:53:37.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gorextreme2 left the game
+[12Jun2025 04:48:23.651] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
+[12Jun2025 04:48:23.653] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu120.04
+[12Jun2025 04:48:23.655] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.1.2 starting: java version 21.0.7 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[12Jun2025 04:48:23.745] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
+[12Jun2025 04:48:23.905] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=jar:file:///workspaces/literate-octo-sniffle/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar!/ Service=ModLauncher Env=SERVER
+[12Jun2025 04:48:24.188] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[12Jun2025 04:48:25.127] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
+[12Jun2025 04:48:25.518] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:///workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:///workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:///workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties]
+[12Jun2025 04:48:25.632] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:///workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:///workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:///workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/workspaces/literate-octo-sniffle/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties]
+[12Jun2025 04:48:31.196] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 49.1.4, for MC 1.20.4 with MCP 20231207.112700
+[12Jun2025 04:48:31.198] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v49.1.4 Initialized
+[12Jun2025 04:48:31.241] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[12Jun2025 04:48:32.022] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[12Jun2025 04:48:32.574] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 49.1.4 Target: 49.2.0
+[12Jun2025 04:48:33.153] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[12Jun2025 04:48:35.505] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[12Jun2025 04:48:35.768] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1271 advancements
+[12Jun2025 04:48:36.324] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.4
+[12Jun2025 04:48:36.325] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[12Jun2025 04:48:36.325] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[12Jun2025 04:48:36.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[12Jun2025 04:48:36.475] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[12Jun2025 04:48:36.524] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[12Jun2025 04:48:36.572] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12Jun2025 04:48:36.572] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[12Jun2025 04:48:36.573] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12Jun2025 04:48:36.573] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[12Jun2025 04:48:36.633] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[12Jun2025 04:48:40.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[12Jun2025 04:48:43.877] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Jun2025 04:48:43.902] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Jun2025 04:48:43.903] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Jun2025 04:48:43.903] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Jun2025 04:48:43.905] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Jun2025 04:48:43.905] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Jun2025 04:48:43.947] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Jun2025 04:48:44.449] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Jun2025 04:48:44.985] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Jun2025 04:48:45.443] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 11%
+[12Jun2025 04:48:45.943] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 37%
+[12Jun2025 04:48:46.443] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[12Jun2025 04:48:46.951] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 87%
+[12Jun2025 04:48:47.061] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6119 ms
+[12Jun2025 04:48:47.062] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (10.474s)! For help, type "help"
+[12Jun2025 04:48:47.082] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[12Jun2025 04:49:16.019] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xsep123[/172.25.43.2:50405] logged in with entity id 77 at (-118.3714319629256, 44.0, 266.69999998807907)
+[12Jun2025 04:49:16.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xsep123 joined the game
