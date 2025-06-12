@@ -45,3 +45,5 @@
 [12Jun2025 04:48:47.082] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [12Jun2025 04:49:16.019] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xsep123[/172.25.43.2:50405] logged in with entity id 77 at (-118.3714319629256, 44.0, 266.69999998807907)
 [12Jun2025 04:49:16.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xsep123 joined the game
+[12Jun2025 05:06:19.399] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gorextreme2[/172.25.48.53:50939] logged in with entity id 5005 at (-869.9193489776045, 67.0, 2007.1274864328304)
+[12Jun2025 05:06:19.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gorextreme2 joined the game
