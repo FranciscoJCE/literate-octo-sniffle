@@ -396,6 +396,7 @@
       "rotten_flesh": "2025-06-11 06:25:36 +0000",
       "cooked_mutton": "2025-06-11 06:01:14 +0000",
       "sweet_berries": "2025-06-11 06:47:38 +0000",
+      "baked_potato": "2025-06-12 00:46:58 +0000",
       "golden_carrot": "2025-06-11 06:42:28 +0000"
     },
     "done": false
@@ -1188,7 +1189,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:cow": "2025-06-11 06:57:35 +0000"
+      "minecraft:cow": "2025-06-11 06:57:35 +0000",
+      "minecraft:pig": "2025-06-12 00:50:59 +0000"
     },
     "done": false
   },
@@ -1207,6 +1209,37 @@
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2025-06-11 07:28:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-06-12 00:47:22 +0000",
+      "minecraft:basalt_deltas": "2025-06-12 00:47:05 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-06-12 00:47:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-06-12 00:47:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-06-12 00:48:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-06-12 00:53:58 +0000"
     },
     "done": true
   },
