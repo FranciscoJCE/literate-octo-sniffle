@@ -744,3 +744,14 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [12Jun2025 05:23:15.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xsep123 has made the advancement [Those Were the Days]
 [12Jun2025 05:23:47.098] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [12Jun2025 05:23:47.102] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jun2025 05:28:47.106] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jun2025 05:28:47.111] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jun2025 05:33:47.096] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jun2025 05:33:47.100] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jun2025 05:38:02.191] [Server thread/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming net/minecraft/world/level/Explosion
+[12Jun2025 05:38:02.226] [Server thread/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming net/minecraft/world/level/Explosion
+[12Jun2025 05:38:47.176] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jun2025 05:38:47.181] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jun2025 05:43:47.096] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jun2025 05:43:47.100] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jun2025 05:44:29.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gorextreme2 has made the advancement [Cover Me with Diamonds]
