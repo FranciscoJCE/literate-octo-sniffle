@@ -65,3 +65,5 @@
 [12Jun2025 08:32:19.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> ZZZ
 [12Jun2025 08:43:46.896] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xsep123 lost connection: Disconnected
 [12Jun2025 08:43:46.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xsep123 left the game
+[12Jun2025 08:53:52.744] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gorextreme2 lost connection: Disconnected
+[12Jun2025 08:53:52.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gorextreme2 left the game
