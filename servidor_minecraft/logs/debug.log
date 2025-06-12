@@ -896,3 +896,49 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [12Jun2025 02:29:53.241] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [12Jun2025 02:34:53.237] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [12Jun2025 02:34:53.241] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jun2025 02:38:30.499] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/52152, l='ServerLevel[world]', x=-109.54, y=49.00, z=244.61] died, message: 'Villager suffocated in a wall'
+[12Jun2025 02:39:06.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 1
+[12Jun2025 02:39:09.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 2
+[12Jun2025 02:39:10.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 3
+[12Jun2025 02:39:13.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 4
+[12Jun2025 02:39:14.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 5
+[12Jun2025 02:39:15.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 6
+[12Jun2025 02:39:17.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 7
+[12Jun2025 02:39:17.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 8
+[12Jun2025 02:39:18.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 9
+[12Jun2025 02:39:33.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 10
+[12Jun2025 02:39:33.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 11
+[12Jun2025 02:39:34.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 12
+[12Jun2025 02:39:35.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 13
+[12Jun2025 02:39:38.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 14
+[12Jun2025 02:39:39.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 15
+[12Jun2025 02:39:40.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 16
+[12Jun2025 02:39:41.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 17
+[12Jun2025 02:39:41.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 18
+[12Jun2025 02:39:42.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 19
+[12Jun2025 02:39:44.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 20
+[12Jun2025 02:39:44.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 21
+[12Jun2025 02:39:46.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 22
+[12Jun2025 02:39:47.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 23
+[12Jun2025 02:39:48.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 24
+[12Jun2025 02:39:49.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 25
+[12Jun2025 02:39:50.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 26
+[12Jun2025 02:39:53.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 27
+[12Jun2025 02:39:53.241] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jun2025 02:39:53.246] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jun2025 02:39:54.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 28
+[12Jun2025 02:39:56.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 29
+[12Jun2025 02:39:57.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 30
+[12Jun2025 02:39:59.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 31
+[12Jun2025 02:40:00.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 32
+[12Jun2025 02:40:01.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 33
+[12Jun2025 02:40:01.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 3
+[12Jun2025 02:40:05.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 34
+[12Jun2025 02:40:06.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 35
+[12Jun2025 02:40:07.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 36
+[12Jun2025 02:40:09.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 37
+[12Jun2025 02:40:11.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 38
+[12Jun2025 02:40:12.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 39
+[12Jun2025 02:40:14.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> 40
+[12Jun2025 02:44:53.235] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jun2025 02:44:53.239] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
