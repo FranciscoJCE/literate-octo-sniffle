@@ -630,6 +630,7 @@
       "minecraft:stray": "2025-06-11 06:37:29 +0000",
       "minecraft:enderman": "2025-06-13 07:26:30 +0000",
       "minecraft:magma_cube": "2025-06-12 04:54:53 +0000",
+      "minecraft:witch": "2025-06-13 07:30:00 +0000",
       "minecraft:spider": "2025-06-11 05:53:00 +0000",
       "minecraft:zombie": "2025-06-11 05:46:26 +0000",
       "minecraft:creeper": "2025-06-11 04:34:47 +0000",
@@ -2282,6 +2283,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-13 05:51:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-06-13 07:28:31 +0000"
     },
     "done": true
   },
