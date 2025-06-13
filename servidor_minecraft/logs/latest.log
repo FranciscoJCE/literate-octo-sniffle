@@ -44,3 +44,5 @@
 [13Jun2025 21:53:51.059] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [13Jun2025 21:54:51.200] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xsep123[/172.25.43.2:55798] logged in with entity id 73 at (-845.5618292343336, 69.0, 2010.2819575736758)
 [13Jun2025 21:54:51.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xsep123 joined the game
+[13Jun2025 23:40:46.930] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xsep123 lost connection: Disconnected
+[13Jun2025 23:40:46.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xsep123 left the game
