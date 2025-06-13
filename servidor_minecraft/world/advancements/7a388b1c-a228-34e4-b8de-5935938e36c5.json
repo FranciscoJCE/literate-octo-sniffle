@@ -12,6 +12,7 @@
       "minecraft:old_growth_pine_taiga": "2025-06-11 05:43:46 +0000",
       "minecraft:forest": "2025-06-11 05:33:22 +0000",
       "minecraft:taiga": "2025-06-11 05:43:16 +0000",
+      "minecraft:deep_ocean": "2025-06-13 05:48:11 +0000",
       "minecraft:river": "2025-06-11 05:42:50 +0000",
       "minecraft:snowy_plains": "2025-06-11 05:58:25 +0000",
       "minecraft:snowy_taiga": "2025-06-11 05:57:53 +0000",
@@ -21,6 +22,7 @@
       "minecraft:frozen_ocean": "2025-06-11 05:55:10 +0000",
       "minecraft:frozen_river": "2025-06-11 05:58:21 +0000",
       "minecraft:deep_frozen_ocean": "2025-06-11 05:54:06 +0000",
+      "minecraft:ocean": "2025-06-13 05:48:16 +0000",
       "minecraft:sunflower_plains": "2025-06-11 03:57:47 +0000",
       "minecraft:swamp": "2025-06-11 05:39:58 +0000",
       "minecraft:windswept_gravelly_hills": "2025-06-13 05:36:56 +0000",
@@ -2356,9 +2358,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-13 05:49:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-13 05:49:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-06-13 05:03:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-06-13 05:54:18 +0000"
     },
     "done": true
   },
@@ -2368,9 +2388,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-06-13 05:54:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-13 05:49:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-06-13 05:03:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2025-06-13 05:54:20 +0000"
     },
     "done": true
   },

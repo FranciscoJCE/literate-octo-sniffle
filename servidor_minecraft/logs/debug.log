@@ -822,3 +822,9 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [13Jun2025 05:46:13.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenshi_145 joined the game
 [13Jun2025 05:48:04.730] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [13Jun2025 05:48:04.735] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jun2025 05:51:44.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenshi_145 has made the advancement [Isn't It Iron Pick]
+[13Jun2025 05:53:04.736] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jun2025 05:53:04.741] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jun2025 05:58:01.346] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=687, y=64, z=1230} BlockPos{x=702, y=64, z=1226}
+[13Jun2025 05:58:04.741] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jun2025 05:58:04.746] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
