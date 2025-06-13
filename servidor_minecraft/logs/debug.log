@@ -741,3 +741,39 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [13Jun2025 05:15:13.190] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tenshi_145[/172.25.212.176:51225] logged in with entity id 4222 at (-871.6766815836105, 67.0, 2008.399567013327)
 [13Jun2025 05:15:13.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenshi_145 joined the game
 [13Jun2025 05:16:02.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenshi_145 has made the advancement [Suit Up]
+[13Jun2025 05:18:04.718] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jun2025 05:18:04.724] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jun2025 05:19:26.552] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received client connection with modlist [forge, minecraft, tlskincape, xaerominimap, xaeroworldmap]
+[13Jun2025 05:19:26.572] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received client connection with channels [forge:handshake, forge:login, forge:tier_sorting, minecraft:register, minecraft:unregister, xaerominimap:main, xaeroworldmap:main]
+[13Jun2025 05:19:26.572] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of 'PRESENT 1' from client : ACCEPTED
+[13Jun2025 05:19:26.572] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Version test of 'PRESENT 0' from client : ACCEPTED
+[13Jun2025 05:19:26.572] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Version test of 'PRESENT 0' from client : ACCEPTED
+[13Jun2025 05:19:26.572] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'PRESENT 0' from client : ACCEPTED
+[13Jun2025 05:19:26.573] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'PRESENT 0' from client : ACCEPTED
+[13Jun2025 05:19:26.573] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[13Jun2025 05:19:26.592] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 0 from client
+[13Jun2025 05:19:26.614] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 1 from client
+[13Jun2025 05:19:26.630] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 2 from client
+[13Jun2025 05:19:26.655] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 3 from client
+[13Jun2025 05:19:26.670] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 4 from client
+[13Jun2025 05:19:26.687] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 5 from client
+[13Jun2025 05:19:26.706] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 6 from client
+[13Jun2025 05:19:26.722] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 7 from client
+[13Jun2025 05:19:26.738] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 8 from client
+[13Jun2025 05:19:26.753] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 9 from client
+[13Jun2025 05:19:26.769] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 10 from client
+[13Jun2025 05:19:26.785] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 11 from client
+[13Jun2025 05:19:26.803] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 12 from client
+[13Jun2025 05:19:26.818] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 13 from client
+[13Jun2025 05:19:26.834] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 14 from client
+[13Jun2025 05:19:26.849] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 15 from client
+[13Jun2025 05:19:26.865] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 16 from client
+[13Jun2025 05:19:26.883] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 17 from client
+[13Jun2025 05:19:26.899] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 18 from client
+[13Jun2025 05:19:27.196] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 19 from client
+[13Jun2025 05:19:27.333] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xsep123[/172.25.43.2:50428] logged in with entity id 5917 at (-864.400528817726, 65.5625, 1967.9095449179254)
+[13Jun2025 05:19:27.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xsep123 joined the game
+[13Jun2025 05:21:02.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenshi_145 has made the advancement [Diamonds!]
+[13Jun2025 05:23:04.722] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jun2025 05:23:04.726] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jun2025 05:23:18.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gorextreme2> xaero-waypoint:ENTRADA MINESHAFT:E:-598:63:2112:13:false:0:Internal-overworld-waypoints
