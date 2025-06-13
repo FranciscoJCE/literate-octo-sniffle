@@ -57,3 +57,5 @@
 [13Jun2025 05:30:00.761] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenshi_145 lost connection: Disconnected
 [13Jun2025 05:30:00.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenshi_145 left the game
 [13Jun2025 05:35:38.042] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-232, y=64, z=2114} BlockPos{x=-232, y=62, z=2113}
+[13Jun2025 05:46:13.466] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tenshi_145[/172.25.212.176:52175] logged in with entity id 15356 at (-555.3000000119209, 17.0, 2251.699999988079)
+[13Jun2025 05:46:13.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenshi_145 joined the game

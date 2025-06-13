@@ -23,6 +23,7 @@
       "minecraft:deep_frozen_ocean": "2025-06-11 05:54:06 +0000",
       "minecraft:sunflower_plains": "2025-06-11 03:57:47 +0000",
       "minecraft:swamp": "2025-06-11 05:39:58 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-06-13 05:36:56 +0000",
       "minecraft:windswept_hills": "2025-06-10 05:32:55 +0000",
       "minecraft:snowy_beach": "2025-06-11 05:57:43 +0000",
       "minecraft:windswept_savanna": "2025-06-11 05:41:17 +0000",
@@ -2358,6 +2359,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-06-13 05:03:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-06-13 05:46:14 +0000"
     },
     "done": true
   },
