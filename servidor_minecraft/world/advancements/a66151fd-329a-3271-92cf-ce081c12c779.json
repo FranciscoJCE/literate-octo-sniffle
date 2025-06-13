@@ -899,6 +899,7 @@
     "criteria": {
       "minecraft:cave_spider": "2025-06-13 05:57:28 +0000",
       "minecraft:spider": "2025-06-13 05:26:21 +0000",
+      "minecraft:zombie": "2025-06-13 05:59:23 +0000",
       "minecraft:creeper": "2025-06-11 06:38:22 +0000"
     },
     "done": false
