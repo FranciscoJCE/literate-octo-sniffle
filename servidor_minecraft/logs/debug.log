@@ -891,3 +891,13 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [13Jun2025 06:43:04.719] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [13Jun2025 06:48:04.712] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [13Jun2025 06:48:04.717] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jun2025 06:50:10.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenshi_145 was shot by xsep123
+[13Jun2025 06:50:50.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> zzz
+[13Jun2025 06:50:53.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tenshi_145> ZZZ
+[13Jun2025 06:51:37.406] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenshi_145 lost connection: Disconnected
+[13Jun2025 06:51:37.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenshi_145 left the game
+[13Jun2025 06:53:04.707] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jun2025 06:53:04.711] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jun2025 06:58:04.702] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jun2025 06:58:04.706] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jun2025 06:59:46.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xsep123 has made the advancement [Fishy Business]
