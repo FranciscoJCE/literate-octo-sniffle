@@ -530,6 +530,7 @@
       "cooked_chicken": "2025-06-11 06:11:33 +0000",
       "rotten_flesh": "2025-06-11 05:56:43 +0000",
       "cooked_mutton": "2025-06-11 05:34:25 +0000",
+      "cooked_cod": "2025-06-13 06:32:59 +0000",
       "cooked_beef": "2025-06-11 04:30:43 +0000",
       "baked_potato": "2025-06-11 21:57:36 +0000",
       "poisonous_potato": "2025-06-12 07:59:01 +0000",
@@ -2132,6 +2133,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-06-13 06:19:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-13 05:51:29 +0000"
@@ -2180,9 +2187,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-06-13 06:19:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-13 05:51:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-06-13 06:32:42 +0000"
     },
     "done": true
   },

@@ -18,6 +18,7 @@
       "minecraft:frozen_ocean": "2025-06-11 06:04:50 +0000",
       "minecraft:frozen_river": "2025-06-11 06:08:16 +0000",
       "minecraft:deep_frozen_ocean": "2025-06-11 06:03:43 +0000",
+      "minecraft:ocean": "2025-06-13 06:34:46 +0000",
       "minecraft:sunflower_plains": "2025-06-11 05:52:48 +0000",
       "minecraft:swamp": "2025-06-11 05:53:56 +0000",
       "minecraft:windswept_gravelly_hills": "2025-06-13 05:51:51 +0000",
@@ -685,6 +686,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-06-11 05:58:32 +0000",
+      "golden_apple": "2025-06-13 06:28:35 +0000",
+      "bread": "2025-06-13 06:26:21 +0000",
       "cooked_mutton": "2025-06-11 06:32:59 +0000",
       "sweet_berries": "2025-06-11 06:52:38 +0000",
       "cooked_beef": "2025-06-11 06:56:14 +0000",
@@ -1158,6 +1161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-06-13 06:35:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-13 06:12:21 +0000"
@@ -1179,6 +1188,12 @@
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-13 06:12:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-06-13 06:35:40 +0000"
     },
     "done": true
   },
@@ -1224,6 +1239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-06-13 06:35:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-13 06:12:21 +0000"
@@ -1266,6 +1287,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-06-13 06:29:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-06-13 06:09:44 +0000"
@@ -1287,6 +1314,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-13 06:12:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-06-13 06:27:56 +0000"
     },
     "done": true
   },
@@ -1383,6 +1416,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2025-06-13 05:50:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-06-13 06:19:47 +0000"
     },
     "done": true
   },
