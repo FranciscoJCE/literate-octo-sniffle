@@ -93,3 +93,5 @@
 [13Jun2025 08:16:36.798] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-853, y=59, z=2059} BlockPos{x=-854, y=59, z=2059}
 [13Jun2025 08:16:36.859] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-853, y=59, z=2059} BlockPos{x=-854, y=59, z=2059}
 [13Jun2025 08:16:36.910] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-853, y=59, z=2059} BlockPos{x=-854, y=59, z=2059}
+[13Jun2025 08:38:21.411] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gorextreme2 lost connection: Disconnected
+[13Jun2025 08:38:21.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gorextreme2 left the game
