@@ -47,3 +47,6 @@
 [16Jun2025 01:02:25.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gorextreme2> -1015 -17 2461
 [16Jun2025 01:35:12.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gorextreme2> -31
 [16Jun2025 01:53:34.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gorextreme2> -25
+[16Jun2025 02:09:36.743] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xsep123[/172.25.43.2:50713] logged in with entity id 14926 at (-845.7599389553046, 69.0, 1970.9634732229754)
+[16Jun2025 02:09:36.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xsep123 joined the game
+[16Jun2025 02:14:21.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gorextreme2> xaero-waypoint:Zombies Spawn:Z:-1003:-20:2445:15:false:0:Internal-overworld-waypoints
