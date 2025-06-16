@@ -59,11 +59,13 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-06-16 03:06:36 +0000",
       "minecraft:skeleton": "2025-06-11 03:57:56 +0000",
+      "minecraft:witch": "2025-06-12 01:50:54 +0000",
+      "minecraft:wither_skeleton": "2025-06-16 03:06:04 +0000",
       "minecraft:enderman": "2025-06-12 05:24:38 +0000",
       "minecraft:stray": "2025-06-12 05:33:16 +0000",
       "minecraft:magma_cube": "2025-06-12 05:26:21 +0000",
-      "minecraft:witch": "2025-06-12 01:50:54 +0000",
       "minecraft:spider": "2025-06-12 01:42:54 +0000",
       "minecraft:zombie": "2025-06-11 04:14:32 +0000",
       "minecraft:creeper": "2025-06-12 01:34:21 +0000",
@@ -2526,9 +2528,27 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-06-16 03:06:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-06-16 03:07:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-06-16 01:18:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-06-16 03:07:02 +0000"
     },
     "done": true
   },
@@ -2550,6 +2570,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-06-16 03:06:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2025-06-16 01:08:52 +0000"
@@ -2565,6 +2591,12 @@
   "minecraft:recipes/building_blocks/chiseled_deepslate": {
     "criteria": {
       "has_cobbled_deepslate_slab": "2025-06-16 01:35:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-06-16 03:07:08 +0000"
     },
     "done": true
   },
@@ -2586,6 +2618,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-06-16 03:07:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-06-16 02:41:17 +0000"
@@ -2598,6 +2636,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-06-16 03:05:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2025-06-16 01:18:12 +0000"
@@ -2607,6 +2651,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
     "criteria": {
       "has_polished_deepslate": "2025-06-16 02:41:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-06-16 03:06:41 +0000"
     },
     "done": true
   },
