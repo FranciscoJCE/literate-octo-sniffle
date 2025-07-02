@@ -885,3 +885,56 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [02Jul2025 06:00:34.039] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [02Jul2025 06:05:34.036] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Jul2025 06:05:34.042] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jul2025 06:10:26.412] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Vanilla acceptance test: ACCEPTED
+[02Jul2025 06:10:26.412] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Vanilla acceptance test: ACCEPTED
+[02Jul2025 06:10:26.412] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Vanilla acceptance test: ACCEPTED
+[02Jul2025 06:10:26.412] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Vanilla acceptance test: ACCEPTED
+[02Jul2025 06:10:26.412] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Vanilla acceptance test: ACCEPTED
+[02Jul2025 06:10:26.412] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[02Jul2025 06:10:26.415] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@18441835 into net.minecraft.network.Connection@79bbe0d3
+[02Jul2025 06:10:26.782] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tenshi_145[/172.25.212.176:50719] logged in with entity id 87922 at (-862.3000000119209, 67.0, 1991.3131237007972)
+[02Jul2025 06:10:26.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenshi_145 joined the game
+[02Jul2025 06:10:34.044] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jul2025 06:10:34.049] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jul2025 06:11:04.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gorextreme2> wat
+[02Jul2025 06:11:18.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tenshi_145> fuap
+[02Jul2025 06:11:22.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gorextreme2> no que ya te ibas JAJAJAJ
+[02Jul2025 06:11:33.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tenshi_145> me queria meter media horita xd
+[02Jul2025 06:11:44.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gorextreme2> xddd
+[02Jul2025 06:11:54.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tenshi_145> Pero estaban viendo el video ajsjas
+[02Jul2025 06:11:59.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tenshi_145> y dije
+[02Jul2025 06:12:05.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tenshi_145> ps los dejo
+[02Jul2025 06:12:07.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tenshi_145> xd
+[02Jul2025 06:12:16.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tenshi_145> nomas me meti a v er que habian hecho
+[02Jul2025 06:12:17.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gorextreme2> es que ya lo vimos
+[02Jul2025 06:12:19.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gorextreme2> jajajaj
+[02Jul2025 06:12:25.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gorextreme2> nomas lo estamos viendo otra vez
+[02Jul2025 06:12:29.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tenshi_145> ASJJASAJ
+[02Jul2025 06:12:46.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gorextreme2> toma
+[02Jul2025 06:12:57.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenshi_145 has made the advancement [Cover Me with Diamonds]
+[02Jul2025 06:13:14.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tenshi_145> leeeets gooooo
+[02Jul2025 06:13:18.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tenshi_145> gracias negro
+[02Jul2025 06:14:00.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tenshi_145> ahhhhh
+[02Jul2025 06:15:34.042] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jul2025 06:15:34.047] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jul2025 06:15:49.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tenshi_145> q hay q hcer?
+[02Jul2025 06:16:52.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gorextreme2> hola
+[02Jul2025 06:16:55.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tenshi_145> hi
+[02Jul2025 06:17:00.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gorextreme2> es que ando descargando algo ajajja
+[02Jul2025 06:17:02.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tenshi_145> Hay q hacer una granja
+[02Jul2025 06:17:06.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gorextreme2> XDDD
+[02Jul2025 06:17:06.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tenshi_145> de
+[02Jul2025 06:17:09.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tenshi_145> diamante
+[02Jul2025 06:17:14.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gorextreme2> NO EXISTE ESO
+[02Jul2025 06:17:15.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tenshi_145> JAJAJ
+[02Jul2025 06:17:18.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tenshi_145> hierro
+[02Jul2025 06:17:27.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gorextreme2> Podemos haer la de hierro
+[02Jul2025 06:17:31.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tenshi_145> me han salido un monton de tutoriales en el insta JADJAJDJA
+[02Jul2025 06:17:36.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gorextreme2> o la de madera, pero ocupamos hierro
+[02Jul2025 06:17:40.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gorextreme2> XDDD
+[02Jul2025 06:17:55.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tenshi_145> Mañana
+[02Jul2025 06:17:58.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tenshi_145> la hacemos
+[02Jul2025 06:18:01.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tenshi_145> AJSDJASJ
+[02Jul2025 06:18:08.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tenshi_145> Descansa tilin
+[02Jul2025 06:18:12.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tenshi_145> bonita noche
+[02Jul2025 06:18:15.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tenshi_145> tqm
