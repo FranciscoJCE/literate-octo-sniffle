@@ -2325,15 +2325,9 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_blaze_rod": {
+  "minecraft:nether/find_fortress": {
     "criteria": {
-      "blaze_rod": "2025-06-16 03:08:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_campfire": {
-    "criteria": {
-      "has_soul_sand": "2025-06-16 03:07:09 +0000"
+      "fortress": "2025-06-16 03:05:29 +0000"
     },
     "done": true
   },
@@ -2343,9 +2337,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/blaze_powder": {
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
-      "has_blaze_rod": "2025-06-16 03:08:39 +0000"
+      "has_nether_wart": "2025-06-16 03:05:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-06-16 03:07:09 +0000"
     },
     "done": true
   },
@@ -2355,15 +2355,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_nether_bricks": {
+  "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
-      "has_nether_wart": "2025-06-16 03:05:59 +0000"
+      "blaze_rod": "2025-06-16 03:08:39 +0000"
     },
     "done": true
   },
-  "minecraft:nether/find_fortress": {
+  "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
-      "fortress": "2025-06-16 03:05:29 +0000"
+      "has_blaze_rod": "2025-06-16 03:08:39 +0000"
     },
     "done": true
   },
