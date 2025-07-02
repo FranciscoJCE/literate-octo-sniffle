@@ -57,3 +57,4 @@
 [02Jul2025 01:11:13.838] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2152ms or 43 ticks behind
 [02Jul2025 01:11:49.514] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xsep123[/172.25.43.2:60979] logged in with entity id 453 at (-897.8625217727304, 66.9375, 2019.4051859659205)
 [02Jul2025 01:11:49.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xsep123 joined the game
+[02Jul2025 01:38:46.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xsep123 has made the advancement [Local Brewery]
