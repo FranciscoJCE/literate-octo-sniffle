@@ -1035,3 +1035,4 @@
 [03Jul2025 07:12:26.390] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-182, y=13, z=190} BlockPos{x=-183, y=12, z=190}
 [03Jul2025 07:12:27.483] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-182, y=13, z=189} BlockPos{x=-182, y=12, z=188}
 [03Jul2025 07:12:58.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gorextreme2 was killed by [Intentional Game Design]
+[03Jul2025 07:57:09.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xsep123 has made the advancement [Ol' Betsy]
