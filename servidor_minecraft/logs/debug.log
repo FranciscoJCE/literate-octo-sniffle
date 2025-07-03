@@ -1726,3 +1726,19 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [03Jul2025 07:06:52.796] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-149, y=15, z=218} BlockPos{x=-150, y=14, z=218}
 [03Jul2025 07:07:33.499] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Jul2025 07:07:33.504] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 07:11:17.105] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-221, y=12, z=209} BlockPos{x=-235, y=15, z=200}
+[03Jul2025 07:11:17.146] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-221, y=12, z=209} BlockPos{x=-235, y=15, z=200}
+[03Jul2025 07:11:17.186] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-221, y=12, z=209} BlockPos{x=-235, y=15, z=200}
+[03Jul2025 07:11:17.237] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-221, y=12, z=209} BlockPos{x=-235, y=15, z=200}
+[03Jul2025 07:12:19.632] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-182, y=11, z=194} BlockPos{x=-183, y=12, z=194}
+[03Jul2025 07:12:19.886] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-183, y=13, z=193} BlockPos{x=-183, y=11, z=194}
+[03Jul2025 07:12:26.232] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-182, y=13, z=190} BlockPos{x=-183, y=12, z=190}
+[03Jul2025 07:12:26.290] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-182, y=13, z=190} BlockPos{x=-183, y=12, z=190}
+[03Jul2025 07:12:26.344] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-182, y=13, z=190} BlockPos{x=-183, y=12, z=190}
+[03Jul2025 07:12:26.390] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-182, y=13, z=190} BlockPos{x=-183, y=12, z=190}
+[03Jul2025 07:12:27.483] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-182, y=13, z=189} BlockPos{x=-182, y=12, z=188}
+[03Jul2025 07:12:33.487] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 07:12:33.494] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 07:12:58.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gorextreme2 was killed by [Intentional Game Design]
+[03Jul2025 07:17:33.493] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 07:17:33.500] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
