@@ -113,3 +113,11 @@
 [03Jul2025 04:42:50.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenshi_145 joined the game
 [03Jul2025 04:44:11.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenshi_145 has made the advancement [Hot Stuff]
 [03Jul2025 04:47:18.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> xaero-waypoint:Shared Location:S:-95:74:-111:2:false:0:Internal-the-nether-waypoints
+[03Jul2025 04:47:49.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tenshi_145> tontos todos
+[03Jul2025 04:47:52.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tenshi_145> lol
+[03Jul2025 05:02:03.295] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-45, y=36, z=181} BlockPos{x=-46, y=37, z=181}
+[03Jul2025 05:06:57.712] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/15089, l='ServerLevel[world]', x=703.57, y=64.00, z=1114.70] died, message: 'Leatherworker was slain by Zombie'
+[03Jul2025 05:07:21.148] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-884, y=67, z=1967} BlockPos{x=-885, y=66, z=1967}
+[03Jul2025 05:07:21.194] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-884, y=67, z=1967} BlockPos{x=-885, y=66, z=1967}
+[03Jul2025 05:07:21.244] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-884, y=67, z=1967} BlockPos{x=-885, y=66, z=1967}
+[03Jul2025 05:07:21.293] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-884, y=67, z=1967} BlockPos{x=-885, y=66, z=1967}
