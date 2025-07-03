@@ -1055,3 +1055,4 @@
 [03Jul2025 09:49:28.025] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/151161, l='ServerLevel[world]', x=-860.54, y=67.61, z=1993.64] died, message: 'Toolsmith was slain by Zombie Villager'
 [03Jul2025 09:49:47.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xsep123 was slain by Zombie Villager
 [03Jul2025 09:50:04.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xsep123 has reached the goal [Zombie Doctor]
+[03Jul2025 10:15:33.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> zzz
