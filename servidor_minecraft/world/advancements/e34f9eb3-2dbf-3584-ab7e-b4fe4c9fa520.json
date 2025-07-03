@@ -637,6 +637,7 @@
       "minecraft:zombified_piglin": "2025-07-03 04:15:21 +0000",
       "minecraft:witch": "2025-06-13 07:30:00 +0000",
       "minecraft:wither_skeleton": "2025-06-16 03:06:36 +0000",
+      "minecraft:hoglin": "2025-07-03 04:28:45 +0000",
       "minecraft:cave_spider": "2025-06-13 22:44:02 +0000",
       "minecraft:piglin": "2025-07-03 04:21:59 +0000",
       "minecraft:stray": "2025-06-11 06:37:29 +0000",
@@ -2519,6 +2520,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-07-03 04:27:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-07-03 04:14:47 +0000"
@@ -2534,6 +2541,12 @@
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2025-07-03 04:22:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-07-03 04:27:53 +0000"
     },
     "done": true
   },
