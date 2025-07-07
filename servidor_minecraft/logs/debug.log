@@ -670,3 +670,169 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [07Jul2025 02:58:59.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> Hola tonto
 [07Jul2025 03:00:08.046] [Server thread/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming net/minecraft/world/level/Explosion
 [07Jul2025 03:00:08.160] [Server thread/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming net/minecraft/world/level/Explosion
+[07Jul2025 03:02:04.376] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 03:02:04.533] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 03:04:11.399] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received client connection with modlist [forge, minecraft, xaerominimap, xaeroworldmap]
+[07Jul2025 03:04:11.440] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received client connection with channels [forge:handshake, forge:login, forge:tier_sorting, minecraft:register, minecraft:unregister, xaerominimap:main, xaeroworldmap:main]
+[07Jul2025 03:04:11.442] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of 'PRESENT 1' from client : ACCEPTED
+[07Jul2025 03:04:11.443] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Version test of 'PRESENT 0' from client : ACCEPTED
+[07Jul2025 03:04:11.444] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Version test of 'PRESENT 0' from client : ACCEPTED
+[07Jul2025 03:04:11.444] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'PRESENT 0' from client : ACCEPTED
+[07Jul2025 03:04:11.444] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'PRESENT 0' from client : ACCEPTED
+[07Jul2025 03:04:11.444] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[07Jul2025 03:04:11.474] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 0 from client
+[07Jul2025 03:04:11.497] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 1 from client
+[07Jul2025 03:04:11.514] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 2 from client
+[07Jul2025 03:04:11.557] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 3 from client
+[07Jul2025 03:04:11.577] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 4 from client
+[07Jul2025 03:04:11.596] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 5 from client
+[07Jul2025 03:04:11.625] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 6 from client
+[07Jul2025 03:04:11.641] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 7 from client
+[07Jul2025 03:04:11.660] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 8 from client
+[07Jul2025 03:04:11.677] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 9 from client
+[07Jul2025 03:04:11.695] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 10 from client
+[07Jul2025 03:04:11.716] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 11 from client
+[07Jul2025 03:04:11.749] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 12 from client
+[07Jul2025 03:04:11.766] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 13 from client
+[07Jul2025 03:04:11.783] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 14 from client
+[07Jul2025 03:04:11.803] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 15 from client
+[07Jul2025 03:04:11.819] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 16 from client
+[07Jul2025 03:04:11.836] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 17 from client
+[07Jul2025 03:04:11.852] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 18 from client
+[07Jul2025 03:04:12.628] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 19 from client
+[07Jul2025 03:04:13.149] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gorextreme2[/172.25.48.53:50116] logged in with entity id 5979 at (-866.196797317747, 66.0, 2015.1883515789525)
+[07Jul2025 03:04:13.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gorextreme2 joined the game
+[07Jul2025 03:04:17.772] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4897ms or 97 ticks behind
+[07Jul2025 03:04:35.325] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2600ms or 52 ticks behind
+[07Jul2025 03:04:58.629] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8304ms or 166 ticks behind
+[07Jul2025 03:05:16.806] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3181ms or 63 ticks behind
+[07Jul2025 03:05:39.227] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[07Jul2025 03:05:45.944] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xsep123 lost connection: Disconnected
+[07Jul2025 03:05:45.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xsep123 left the game
+[07Jul2025 03:05:52.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gorextreme2> ZZZZZZZZZ
+[07Jul2025 03:06:01.091] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received client connection with modlist [forge, minecraft, tlskincape, xaerominimap, xaeroworldmap]
+[07Jul2025 03:06:01.110] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received client connection with channels [forge:handshake, forge:login, forge:tier_sorting, minecraft:register, minecraft:unregister, xaerominimap:main, xaeroworldmap:main]
+[07Jul2025 03:06:01.111] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of 'PRESENT 1' from client : ACCEPTED
+[07Jul2025 03:06:01.111] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Version test of 'PRESENT 0' from client : ACCEPTED
+[07Jul2025 03:06:01.112] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Version test of 'PRESENT 0' from client : ACCEPTED
+[07Jul2025 03:06:01.113] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'PRESENT 0' from client : ACCEPTED
+[07Jul2025 03:06:01.113] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'PRESENT 0' from client : ACCEPTED
+[07Jul2025 03:06:01.115] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[07Jul2025 03:06:01.149] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 0 from client
+[07Jul2025 03:06:01.172] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 1 from client
+[07Jul2025 03:06:01.191] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 2 from client
+[07Jul2025 03:06:01.215] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 3 from client
+[07Jul2025 03:06:01.235] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 4 from client
+[07Jul2025 03:06:01.257] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 5 from client
+[07Jul2025 03:06:01.283] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 6 from client
+[07Jul2025 03:06:01.302] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 7 from client
+[07Jul2025 03:06:01.322] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 8 from client
+[07Jul2025 03:06:01.347] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 9 from client
+[07Jul2025 03:06:01.369] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 10 from client
+[07Jul2025 03:06:01.387] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 11 from client
+[07Jul2025 03:06:01.410] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 12 from client
+[07Jul2025 03:06:01.434] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 13 from client
+[07Jul2025 03:06:01.453] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 14 from client
+[07Jul2025 03:06:01.474] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 15 from client
+[07Jul2025 03:06:01.495] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 16 from client
+[07Jul2025 03:06:01.516] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 17 from client
+[07Jul2025 03:06:01.534] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 18 from client
+[07Jul2025 03:06:01.834] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 19 from client
+[07Jul2025 03:06:02.175] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xsep123[/172.25.43.2:53937] logged in with entity id 6820 at (-1001.517725229888, -20.0, 2445.427406591862)
+[07Jul2025 03:06:02.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xsep123 joined the game
+[07Jul2025 03:06:09.193] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[07Jul2025 03:06:26.972] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2797ms or 55 ticks behind
+[07Jul2025 03:06:48.311] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[07Jul2025 03:07:07.108] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3833ms or 76 ticks behind
+[07Jul2025 03:07:30.996] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[07Jul2025 03:07:38.747] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 03:07:38.790] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 03:07:48.959] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2985ms or 59 ticks behind
+[07Jul2025 03:08:07.290] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[07Jul2025 03:08:34.976] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[07Jul2025 03:08:48.499] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Luffy'/6070, l='ServerLevel[world]', x=-857.77, y=66.49, z=1993.08] died: Luffy was slain by Iron Golem
+[07Jul2025 03:08:55.448] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[07Jul2025 03:12:21.988] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[07Jul2025 03:12:41.347] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4372ms or 87 ticks behind
+[07Jul2025 03:12:53.270] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 03:12:53.291] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 03:12:59.738] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3413ms or 68 ticks behind
+[07Jul2025 03:15:26.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gorextreme2> xaero-waypoint:Granja de hierro:A:703:63:1215:1:false:0:Internal-overworld-waypoints
+[07Jul2025 03:17:56.068] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 03:17:56.082] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 03:19:39.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gorextreme2 was slain by xsep123
+[07Jul2025 03:19:40.516] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gorextreme2 moved too quickly! 8.199999988079071,1.0625,-7.15372611755447
+[07Jul2025 03:21:20.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gorextreme2> catro
+[07Jul2025 03:21:22.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gorextreme2> castro
+[07Jul2025 03:21:27.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gorextreme2> vives
+[07Jul2025 03:21:30.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gorextreme2> ?
+[07Jul2025 03:22:56.042] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 03:22:56.050] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 03:27:56.054] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 03:27:56.073] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 03:29:22.415] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-861, y=66, z=1979} BlockPos{x=-862, y=65, z=1979}
+[07Jul2025 03:32:56.005] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 03:32:56.010] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 03:33:45.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenshi_145 was slain by Iron Golem
+[07Jul2025 03:37:56.114] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 03:37:56.152] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 03:37:56.237] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oak Boat (vehicle of Gorextreme2) moved too quickly! -1.0213303140118342,0.0,-10.228880886609431
+[07Jul2025 03:40:21.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gorextreme2> zzzzzzzzzzzzzzzzzzzzzzzzzz
+[07Jul2025 03:40:24.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gorextreme2> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[07Jul2025 03:40:24.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tenshi_145> ZZZZZ
+[07Jul2025 03:40:24.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tenshi_145> ZZZ
+[07Jul2025 03:40:25.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tenshi_145> ZZZ
+[07Jul2025 03:40:26.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tenshi_145> ZZ
+[07Jul2025 03:40:26.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tenshi_145> Z
+[07Jul2025 03:40:26.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tenshi_145> Z
+[07Jul2025 03:40:27.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gorextreme2> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[07Jul2025 03:40:28.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tenshi_145> ZZZZZ
+[07Jul2025 03:40:29.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tenshi_145> ZZ
+[07Jul2025 03:40:30.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tenshi_145> ZZ
+[07Jul2025 03:40:30.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gorextreme2> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[07Jul2025 03:40:31.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tenshi_145> ZZZZZZZZZZZZZZZ
+[07Jul2025 03:40:32.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tenshi_145> ZZZZZZZZZZZZ
+[07Jul2025 03:40:33.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tenshi_145> ZZZZZZZZZ
+[07Jul2025 03:40:34.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tenshi_145> ZZZZZZZZ
+[07Jul2025 03:40:35.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tenshi_145> ZZZZ
+[07Jul2025 03:40:36.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tenshi_145> ZZZZZZZ
+[07Jul2025 03:40:36.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tenshi_145> ZZZ
+[07Jul2025 03:40:37.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tenshi_145> ZZZ
+[07Jul2025 03:40:38.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tenshi_145> ZZZZZZZ
+[07Jul2025 03:40:38.644] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xsep123 lost connection: Disconnected
+[07Jul2025 03:40:38.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xsep123 left the game
+[07Jul2025 03:40:39.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tenshi_145> ZZZZZZZ
+[07Jul2025 03:40:39.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gorextreme2> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[07Jul2025 03:40:49.097] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received client connection with modlist [forge, minecraft, tlskincape, xaerominimap, xaeroworldmap]
+[07Jul2025 03:40:49.121] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received client connection with channels [forge:handshake, forge:login, forge:tier_sorting, minecraft:register, minecraft:unregister, xaerominimap:main, xaeroworldmap:main]
+[07Jul2025 03:40:49.121] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of 'PRESENT 1' from client : ACCEPTED
+[07Jul2025 03:40:49.121] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Version test of 'PRESENT 0' from client : ACCEPTED
+[07Jul2025 03:40:49.121] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Version test of 'PRESENT 0' from client : ACCEPTED
+[07Jul2025 03:40:49.121] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'PRESENT 0' from client : ACCEPTED
+[07Jul2025 03:40:49.121] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'PRESENT 0' from client : ACCEPTED
+[07Jul2025 03:40:49.121] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[07Jul2025 03:40:49.146] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 0 from client
+[07Jul2025 03:40:49.167] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 1 from client
+[07Jul2025 03:40:49.188] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 2 from client
+[07Jul2025 03:40:49.221] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 3 from client
+[07Jul2025 03:40:49.243] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 4 from client
+[07Jul2025 03:40:49.268] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 5 from client
+[07Jul2025 03:40:49.298] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 6 from client
+[07Jul2025 03:40:49.321] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 7 from client
+[07Jul2025 03:40:49.343] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 8 from client
+[07Jul2025 03:40:49.361] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 9 from client
+[07Jul2025 03:40:49.384] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 10 from client
+[07Jul2025 03:40:49.406] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 11 from client
+[07Jul2025 03:40:49.433] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 12 from client
+[07Jul2025 03:40:49.457] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 13 from client
+[07Jul2025 03:40:49.480] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 14 from client
+[07Jul2025 03:40:49.501] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 15 from client
+[07Jul2025 03:40:49.523] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 16 from client
+[07Jul2025 03:40:49.548] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 17 from client
+[07Jul2025 03:40:49.569] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 18 from client
+[07Jul2025 03:40:49.872] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 19 from client
+[07Jul2025 03:40:50.062] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xsep123[/172.25.43.2:56022] logged in with entity id 31275 at (538.3920255884417, 63.0, 1383.7929275061883)
+[07Jul2025 03:40:50.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xsep123 joined the game
+[07Jul2025 03:40:55.112] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/76, l='ServerLevel[world]', x=666.72, y=62.00, z=1237.08] died, message: 'Leatherworker tried to swim in lava'
+[07Jul2025 03:41:17.266] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenshi_145 lost connection: Disconnected
+[07Jul2025 03:41:17.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenshi_145 left the game

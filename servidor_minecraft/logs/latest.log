@@ -69,3 +69,69 @@
 [07Jul2025 02:58:19.217] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
 [07Jul2025 02:58:52.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tenshi_145> Hola kevin
 [07Jul2025 02:58:59.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xsep123> Hola tonto
+[07Jul2025 03:04:13.149] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gorextreme2[/172.25.48.53:50116] logged in with entity id 5979 at (-866.196797317747, 66.0, 2015.1883515789525)
+[07Jul2025 03:04:13.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gorextreme2 joined the game
+[07Jul2025 03:04:17.772] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4897ms or 97 ticks behind
+[07Jul2025 03:04:35.325] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2600ms or 52 ticks behind
+[07Jul2025 03:04:58.629] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8304ms or 166 ticks behind
+[07Jul2025 03:05:16.806] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3181ms or 63 ticks behind
+[07Jul2025 03:05:39.227] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[07Jul2025 03:05:45.944] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xsep123 lost connection: Disconnected
+[07Jul2025 03:05:45.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xsep123 left the game
+[07Jul2025 03:05:52.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gorextreme2> ZZZZZZZZZ
+[07Jul2025 03:06:02.175] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xsep123[/172.25.43.2:53937] logged in with entity id 6820 at (-1001.517725229888, -20.0, 2445.427406591862)
+[07Jul2025 03:06:02.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xsep123 joined the game
+[07Jul2025 03:06:09.193] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[07Jul2025 03:06:26.972] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2797ms or 55 ticks behind
+[07Jul2025 03:06:48.311] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[07Jul2025 03:07:07.108] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3833ms or 76 ticks behind
+[07Jul2025 03:07:30.996] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[07Jul2025 03:07:48.959] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2985ms or 59 ticks behind
+[07Jul2025 03:08:07.290] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[07Jul2025 03:08:34.976] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[07Jul2025 03:08:48.499] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Luffy'/6070, l='ServerLevel[world]', x=-857.77, y=66.49, z=1993.08] died: Luffy was slain by Iron Golem
+[07Jul2025 03:08:55.448] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[07Jul2025 03:12:21.988] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[07Jul2025 03:12:41.347] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4372ms or 87 ticks behind
+[07Jul2025 03:12:59.738] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3413ms or 68 ticks behind
+[07Jul2025 03:15:26.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gorextreme2> xaero-waypoint:Granja de hierro:A:703:63:1215:1:false:0:Internal-overworld-waypoints
+[07Jul2025 03:19:39.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gorextreme2 was slain by xsep123
+[07Jul2025 03:19:40.516] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gorextreme2 moved too quickly! 8.199999988079071,1.0625,-7.15372611755447
+[07Jul2025 03:21:20.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gorextreme2> catro
+[07Jul2025 03:21:22.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gorextreme2> castro
+[07Jul2025 03:21:27.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gorextreme2> vives
+[07Jul2025 03:21:30.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gorextreme2> ?
+[07Jul2025 03:29:22.415] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-861, y=66, z=1979} BlockPos{x=-862, y=65, z=1979}
+[07Jul2025 03:33:45.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenshi_145 was slain by Iron Golem
+[07Jul2025 03:37:56.237] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oak Boat (vehicle of Gorextreme2) moved too quickly! -1.0213303140118342,0.0,-10.228880886609431
+[07Jul2025 03:40:21.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gorextreme2> zzzzzzzzzzzzzzzzzzzzzzzzzz
+[07Jul2025 03:40:24.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gorextreme2> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[07Jul2025 03:40:24.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tenshi_145> ZZZZZ
+[07Jul2025 03:40:24.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tenshi_145> ZZZ
+[07Jul2025 03:40:25.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tenshi_145> ZZZ
+[07Jul2025 03:40:26.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tenshi_145> ZZ
+[07Jul2025 03:40:26.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tenshi_145> Z
+[07Jul2025 03:40:26.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tenshi_145> Z
+[07Jul2025 03:40:27.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gorextreme2> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[07Jul2025 03:40:28.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tenshi_145> ZZZZZ
+[07Jul2025 03:40:29.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tenshi_145> ZZ
+[07Jul2025 03:40:30.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tenshi_145> ZZ
+[07Jul2025 03:40:30.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gorextreme2> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[07Jul2025 03:40:31.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tenshi_145> ZZZZZZZZZZZZZZZ
+[07Jul2025 03:40:32.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tenshi_145> ZZZZZZZZZZZZ
+[07Jul2025 03:40:33.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tenshi_145> ZZZZZZZZZ
+[07Jul2025 03:40:34.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tenshi_145> ZZZZZZZZ
+[07Jul2025 03:40:35.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tenshi_145> ZZZZ
+[07Jul2025 03:40:36.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tenshi_145> ZZZZZZZ
+[07Jul2025 03:40:36.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tenshi_145> ZZZ
+[07Jul2025 03:40:37.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tenshi_145> ZZZ
+[07Jul2025 03:40:38.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tenshi_145> ZZZZZZZ
+[07Jul2025 03:40:38.644] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xsep123 lost connection: Disconnected
+[07Jul2025 03:40:38.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xsep123 left the game
+[07Jul2025 03:40:39.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tenshi_145> ZZZZZZZ
+[07Jul2025 03:40:39.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gorextreme2> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[07Jul2025 03:40:50.062] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xsep123[/172.25.43.2:56022] logged in with entity id 31275 at (538.3920255884417, 63.0, 1383.7929275061883)
+[07Jul2025 03:40:50.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xsep123 joined the game
+[07Jul2025 03:40:55.112] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/76, l='ServerLevel[world]', x=666.72, y=62.00, z=1237.08] died, message: 'Leatherworker tried to swim in lava'
+[07Jul2025 03:41:17.266] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenshi_145 lost connection: Disconnected
+[07Jul2025 03:41:17.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenshi_145 left the game
