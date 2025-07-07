@@ -135,3 +135,4 @@
 [07Jul2025 03:40:55.112] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/76, l='ServerLevel[world]', x=666.72, y=62.00, z=1237.08] died, message: 'Leatherworker tried to swim in lava'
 [07Jul2025 03:41:17.266] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenshi_145 lost connection: Disconnected
 [07Jul2025 03:41:17.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenshi_145 left the game
+[07Jul2025 03:58:01.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xsep123 was slain by Spider
