@@ -914,3 +914,26 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [07Jul2025 05:17:56.047] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [07Jul2025 05:22:56.009] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [07Jul2025 05:22:56.014] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 05:24:13.136] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/30047, l='ServerLevel[world]', x=-861.30, y=66.00, z=1991.50] died, message: 'Librarian was slain by Luffy'
+[07Jul2025 05:24:33.337] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/30116, l='ServerLevel[world]', x=-861.30, y=66.00, z=1995.50] died, message: 'Farmer was slain by Luffy'
+[07Jul2025 05:24:56.836] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/30067, l='ServerLevel[world]', x=-861.30, y=66.00, z=1993.50] died, message: 'Librarian was slain by Luffy'
+[07Jul2025 05:26:31.237] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/30117, l='ServerLevel[world]', x=-861.30, y=66.00, z=1987.50] died, message: 'Fletcher was slain by Luffy'
+[07Jul2025 05:27:14.235] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/30085, l='ServerLevel[world]', x=-861.30, y=66.00, z=1989.50] died, message: 'Librarian was slain by Luffy'
+[07Jul2025 05:27:37.842] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/30065, l='ServerLevel[world]', x=-861.30, y=66.00, z=1985.50] died, message: 'Fletcher was slain by Luffy'
+[07Jul2025 05:27:56.017] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 05:27:56.021] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 05:28:52.335] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/30027, l='ServerLevel[world]', x=-861.30, y=66.00, z=1983.50] died, message: 'Farmer was slain by Luffy'
+[07Jul2025 05:29:18.742] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/30066, l='ServerLevel[world]', x=-861.30, y=66.00, z=1981.50] died, message: 'Armorer was slain by Luffy'
+[07Jul2025 05:29:25.736] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/30026, l='ServerLevel[world]', x=-861.35, y=66.00, z=1979.50] died, message: 'Cleric was slain by Luffy'
+[07Jul2025 05:30:39.735] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/30048, l='ServerLevel[world]', x=-861.30, y=66.00, z=1975.50] died, message: 'Weaponsmith was slain by Luffy'
+[07Jul2025 05:30:52.342] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/30115, l='ServerLevel[world]', x=-861.45, y=66.00, z=1973.50] died, message: 'Toolsmith was slain by Luffy'
+[07Jul2025 05:32:22.034] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/66611, l='ServerLevel[world]', x=-861.30, y=66.00, z=1985.50] died, message: 'Fletcher was slain by Luffy'
+[07Jul2025 05:32:56.014] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 05:32:56.018] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 05:33:47.436] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/66826, l='ServerLevel[world]', x=-861.30, y=66.00, z=1987.50] died, message: 'Fletcher was slain by Luffy'
+[07Jul2025 05:34:12.834] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/66049, l='ServerLevel[world]', x=-861.30, y=66.00, z=1993.50] died, message: 'Librarian was slain by Luffy'
+[07Jul2025 05:35:00.436] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/67605, l='ServerLevel[world]', x=-861.30, y=66.00, z=1981.50] died, message: 'Armorer was slain by Luffy'
+[07Jul2025 05:37:56.012] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 05:37:56.016] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 05:42:56.022] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 05:42:56.028] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
