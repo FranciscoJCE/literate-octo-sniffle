@@ -181,3 +181,5 @@
 [07Jul2025 06:36:03.545] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tenshi_145[/172.25.212.176:54439] logged in with entity id 89868 at (719.9193021865098, 67.0, 1166.2140886196373)
 [07Jul2025 06:36:03.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenshi_145 joined the game
 [07Jul2025 06:43:00.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tenshi_145> 706,62,1204
+[07Jul2025 06:47:37.042] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenshi_145 lost connection: Disconnected
+[07Jul2025 06:47:37.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenshi_145 left the game

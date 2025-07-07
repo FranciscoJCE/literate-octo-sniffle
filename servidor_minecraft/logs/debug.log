@@ -1012,3 +1012,9 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [07Jul2025 06:42:56.013] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [07Jul2025 06:42:56.021] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [07Jul2025 06:43:00.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tenshi_145> 706,62,1204
+[07Jul2025 06:47:37.042] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenshi_145 lost connection: Disconnected
+[07Jul2025 06:47:37.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenshi_145 left the game
+[07Jul2025 06:47:55.992] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 06:47:55.998] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 06:52:55.986] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 06:52:55.990] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
