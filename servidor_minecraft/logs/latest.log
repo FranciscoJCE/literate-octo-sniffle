@@ -136,3 +136,6 @@
 [07Jul2025 03:41:17.266] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tenshi_145 lost connection: Disconnected
 [07Jul2025 03:41:17.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenshi_145 left the game
 [07Jul2025 03:58:01.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xsep123 was slain by Spider
+[07Jul2025 04:22:58.454] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of xsep123) moved wrongly! 0.41348650099916995
+[07Jul2025 04:24:52.903] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-865, y=66, z=1975} BlockPos{x=-864, y=68, z=1974}
+[07Jul2025 04:31:45.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gorextreme2> esdw
