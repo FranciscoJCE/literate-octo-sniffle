@@ -140,3 +140,6 @@
 [07Jul2025 04:24:52.903] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-865, y=66, z=1975} BlockPos{x=-864, y=68, z=1974}
 [07Jul2025 04:31:45.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gorextreme2> esdw
 [07Jul2025 04:51:41.602] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-860, y=66, z=1985} BlockPos{x=-858, y=68, z=1973}
+[07Jul2025 04:54:55.860] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tenshi_145[/172.25.212.176:53363] logged in with entity id 51500 at (670.2835005616749, 68.5625, 1261.300000011921)
+[07Jul2025 04:54:55.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tenshi_145 joined the game
+[07Jul2025 04:55:13.298] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-856, y=68, z=1976} BlockPos{x=-855, y=68, z=1976}
