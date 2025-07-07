@@ -158,3 +158,16 @@
 [07Jul2025 05:33:47.436] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/66826, l='ServerLevel[world]', x=-861.30, y=66.00, z=1987.50] died, message: 'Fletcher was slain by Luffy'
 [07Jul2025 05:34:12.834] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/66049, l='ServerLevel[world]', x=-861.30, y=66.00, z=1993.50] died, message: 'Librarian was slain by Luffy'
 [07Jul2025 05:35:00.436] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/67605, l='ServerLevel[world]', x=-861.30, y=66.00, z=1981.50] died, message: 'Armorer was slain by Luffy'
+[07Jul2025 06:01:01.301] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oak Boat (vehicle of xsep123) moved wrongly! 0.27036217487636804
+[07Jul2025 06:21:50.999] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=673, y=63, z=1227} BlockPos{x=673, y=62, z=1228}
+[07Jul2025 06:21:51.035] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=673, y=63, z=1227} BlockPos{x=673, y=62, z=1228}
+[07Jul2025 06:21:51.104] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=673, y=63, z=1227} BlockPos{x=673, y=62, z=1228}
+[07Jul2025 06:21:51.152] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=673, y=63, z=1227} BlockPos{x=673, y=62, z=1228}
+[07Jul2025 06:21:51.192] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=673, y=63, z=1227} BlockPos{x=673, y=62, z=1228}
+[07Jul2025 06:21:51.242] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=673, y=63, z=1227} BlockPos{x=673, y=62, z=1228}
+[07Jul2025 06:21:51.283] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=673, y=63, z=1227} BlockPos{x=673, y=62, z=1228}
+[07Jul2025 06:21:51.348] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=673, y=63, z=1227} BlockPos{x=673, y=62, z=1228}
+[07Jul2025 06:21:51.387] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=673, y=63, z=1227} BlockPos{x=673, y=62, z=1228}
+[07Jul2025 06:21:51.459] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=673, y=63, z=1227} BlockPos{x=673, y=62, z=1228}
+[07Jul2025 06:21:51.517] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=673, y=63, z=1227} BlockPos{x=673, y=62, z=1228}
+[07Jul2025 06:21:51.564] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=673, y=63, z=1227} BlockPos{x=673, y=62, z=1228}
